@@ -5861,8 +5861,6 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="forget_password_dialog_content_three"><Data>"1. Tắt nguồn thiết bị. Nhấn giữ phím &lt;font color=#e6e6e6>[Nguồn]&lt;/font> và &lt;font color=#e6e6e6>[Tăng âm lượng]&lt;/font> cùng lúc, và giữ chúng cho đến khi bạn thấy &lt;img src=''> icon."</Data></string>
     <string name="forget_password_dialog_content_two">Làm theo hướng dẫn để tiền hành xóa dữ liệu:</string>
     <string name="forget_password_dialog_title">Đặt lại mật khẩu</string>
-	<?xml version="1.0" encoding="utf-8"?>
-<resources>
 	<string name="translation_contributors_title">Người đóng góp</string>
 	<string name="wifi_type_approval_dialog_title">Liên hệ Mi-Room</string>
 	<string name="wifi_type_approval">\n\nTrang web: mi-room.ru\nTelegram channel: @miroom\nTelegram: @michat\nVK: vk.com/mi_room_ru</string>
@@ -5924,5 +5922,4 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
 	<string name="runapp_notifications_title">Thông tin ứng dụng đang chạy</string>
 	<string name="mi_shopping_mall">Cập nhật MIUI Mi-Room</string>
 	<string name="vol_silent_sounds_title">Tắt chế độ âm thanh</string>
-</resources>
 </resources>
