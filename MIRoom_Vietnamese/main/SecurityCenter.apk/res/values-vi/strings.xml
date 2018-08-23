@@ -1755,7 +1755,7 @@ thiết bị của bạn"</string>
     <string name="card_main_deepclean_title">Dọn dẹp sâu</string>
     <string name="card_main_deepclean_summary">Xóa tập tin không cần thiết</string>
     <string name="card_main_deepclean_action">Xóa</string>
-    <string name="card_main_deepclean_wechat_title">Bộ nhớ đệm WeChat</string>
+    <string name="card_main_deepclean_wechat_title">Khóa ứng dụng</string>
     <string name="card_main_deepclean_wechat_summary">Xóa bộ nhớ đệm WeChat để giải phóng dung lượng</string>
     <string name="card_main_deepclean_wechat_action">Dọn dẹp</string>
     <string name="card_main_sectool_title">Công cụ</string>
@@ -1766,7 +1766,7 @@ thiết bị của bạn"</string>
     <string name="card_main_netcheck_action">Kiểm tra</string>
     <string name="card_main_hbassistant_title">Trợ giúp lì xì</string>
     <string name="card_main_hbassistant_summary">Sử dụng công cụ này để nhận lì xì nhanh hơn</string>
-    <string name="card_main_deepclean_qq_title">Trình dọn dẹp QQ</string>
+    <string name="card_main_deepclean_qq_title">Kiểm tra mạng</string>
     <string name="action_button_text_100">Tối ưu</string>
     <string name="action_button_text_80_100">Tối ưu</string>
     <string name="action_button_text_60_80">Sửa</string>
