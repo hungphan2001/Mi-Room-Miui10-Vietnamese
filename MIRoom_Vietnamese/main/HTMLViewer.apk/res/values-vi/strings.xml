@@ -24,4 +24,5 @@ truy cập %s trên thiết bị đã kết nối khác."</string>
     <string name="settings_ad_loading">Vui lòng chờ…</string>
     <string name="settings_ad_loading_unavailable">Không thể tải thông tin.</string>
     <string name="autoconnect">Kết nối tự động</string>
+	<string name="open_wifi_connect_and_use_data_summary">tiếp tục sử dụng lưu lượng truy cập, nhấn để chuyển đổi wifi và xác minh.</string>
 </resources>

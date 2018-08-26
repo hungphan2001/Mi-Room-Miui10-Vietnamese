@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">Nhiều hơn    +%1$d kí tự</item>
+        <item quantity="one">Nhiều hơn    +%1$d kí tự</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d vấn đề yêu cầu tối ưu hóa</item>
+        <item quantity="one">%1$d vấn đề yêu cầu tối ưu hóa</item>
+    </plurals>
     <plurals name="fw_blocked_count_call">
         <item quantity="other">%1$d cuộc gọi từ %2$s và số khác</item>
     </plurals>

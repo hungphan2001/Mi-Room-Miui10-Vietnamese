@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="operation_show_privacy_policy">Hiển thị Chính sách bảo mật</string>
     <string name="delete_folder">Xóa thư mục này?</string>
     <string name="delete_folders">Xóa %1$d thư mục?</string>
     <string name="delete_file">Xóa tập tin này?</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="quick_settings_extreme_batterysaver_label">Tiết kiệm pin cực mạnh</string>
     <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
     <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
     <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
@@ -122,6 +123,7 @@
     <string name="accessibility_qs_edit_tile_label">Vị trí %1$d, %2$s. Chạm đúp để sửa.</string>
     <string name="accessibility_qs_edit_tile_moved">%1$s đã chuyển đến vị trí %2$d</string>
     <string name="accessibility_qs_edit_tile_removed">%1$s đã xóa</string>
+	<string name="keyguard_left_smarthome">Danh bạ</string>
     <string name="accessibility_quick_settings_airplane_changed_off">Chế độ máy bay đã tắt.</string>
     <string name="accessibility_quick_settings_airplane_changed_on">Chế độ máy bay đã bật.</string>
     <string name="accessibility_quick_settings_airplane_off">Chế độ máy bay tắt.</string>
@@ -773,7 +775,7 @@ Chỉ sử dụng bộ sạc đã cung cấp."</string>
     <string name="keyguard_indication_charging_time_slowly">Đang sạc chậm (%s cho đến khi đầy)</string>
     <string name="keyguard_indication_trust_disabled">Thiết bị sẽ khóa cho đến khi bạn mở khóa thủ công</string>
     <string name="keyguard_instructions_when_pattern_disabled">Bấm Menu để mở khóa.</string>
-    <string name="keyguard_left_remotecentral">Điều khiển Mi</string>
+    <string name="keyguard_left_remotecentral">Tin nhắn</string>
     <string name="keyguard_left_view_lock_wallpaper">Tạp chí Khóa màn hình</string>
     <string name="keyguard_low_battery">Kết nối bộ sạc ngay.</string>
     <string name="keyguard_missing_sim_instructions">Lắp thẻ SIM.</string>

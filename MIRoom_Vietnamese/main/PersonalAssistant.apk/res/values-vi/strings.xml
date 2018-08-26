@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="shopping_setting_mishop">Cửa hàng Mi</string>
+    <string name="express_app_store_not_found">Không tìm thấy cửa hàng MI</string>
+    <string name="app_setting_privacy_policy">Chính sách bảo mật</string>
+    <string name="express_detail_order_number_prefix">Số lượng: %s</string>
+    <string name="express_inquiry_all_logistics">Tất cả</string>
+    <string name="express_inquiry_frequently_used_logistics">Thường xuyên sử dụng</string>
+    <string name="express_install_provider_app_description">%1$s yêu cầu quyền để cài %2$s ứng dụng. Cài đặt ngay?</string>
+    <string name="express_install_provider_app_hidden"><u>"Không hiện lại"</u></string>
+    <string name="express_install_provider_app_ok">Cài đặt</string>
+    <string name="express_install_provider_app_title">Cài đặt %s</string>
+    <string name="express_provider_banner">Cung cấp bởi %s</string>
+    <string name="express_provider_cainiao">Cainiao</string>
+    <string name="express_provider_jingdong">Jingdong</string>
+    <string name="express_provider_shunfeng">Shunfeng</string>
+    <string name="express_state_abandoned">Bị bỏ rơi</string>
+    <string name="express_state_accept">Đã gửi</string>
+    <string name="express_state_agent_sign">Đang chờ</string>
+    <string name="express_state_canceled">Đã hủy</string>
+    <string name="express_state_create">Đã tạo đơn đặt hàng</string>
+    <string name="express_state_delivering">Giao hàng</string>
+    <string name="express_state_failed">Các vấn đề được tìm thấy</string>
+    <string name="express_state_reject">Từ chối</string>
+    <string name="express_state_shipped">Giao hàng sớm</string>
+    <string name="express_state_sign">Chữ ký</string>
+    <string name="express_state_transport">Trên đường</string>
+    <string name="express_state_unknown">Hiện tại không có dữ liệu</string>
+    <string name="express_update_provider_app_description">Cập nhật %s để có thể sử dụng tính năng này.</string>
+    <string name="express_update_provider_app_ok">Cập nhật</string>
+    <string name="express_update_provider_app_title">Phiên bản %s đã cũ</string>
     <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>

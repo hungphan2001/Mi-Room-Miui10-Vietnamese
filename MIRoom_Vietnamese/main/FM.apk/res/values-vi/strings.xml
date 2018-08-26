@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="menu_privacy">Chính sách bảo mật</string>
     <string name="app_name">Đài FM</string>
     <string name="menu_record_start">Bắt đầu ghi âm</string>
     <string name="menu_record_stop">Dừng ghi âm</string>
