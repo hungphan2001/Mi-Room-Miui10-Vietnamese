@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<plurals name="show_audio_logcat_countdown">
+        <item quantity="other">%1$d  bước còn lại trước khi bạn có thể nhận nhật ký âm thanh</item>
+        <item quantity="one">%1$d bước còn lại trước khi bạn có thể nhận nhật ký âm thanh</item>
+    </plurals>
+    <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">%1$d bước còn lại trước khi bạn có thể nhận nhật ký GPS</item>
+        <item quantity="one">%1$d bước còn lại trước khi bạn có thể nhận nhật ký GPS</item>
+    </plurals>
+    <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">%1$d bước còn lại trước khi bạn có thể nhận nhật ký modem</item>
+        <item quantity="one">%1$d bước còn lại trước khi bạn có thể nhận nhật ký modem</item>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Độ trễ cực kỳ ngắn (%1$d mili giây)</item>
         <item quantity="one">Độ trễ cực kỳ ngắn (%1$d mili giây)</item>

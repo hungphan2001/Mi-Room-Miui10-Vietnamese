@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="sccret_code_error">Mã bạn đã nhập không chính xác.</string>
+    <string name="stop_upload_audio_log">Nhận thông tin nhật kí âm thanh hoàn tất</string>
+    <string name="stop_upload_gps_log">Nhận thông tin nhật kí GPS hoàn tất</string>
+    <string name="stop_upload_modem_log">Nhận thông tin nhật kí modem hoàn tất</string>
+    <string name="upload_audio_log">Bắt đầu nhận thông tin nhật kí âm thanh</string>
+    <string name="upload_gps_log">Bắt đầu nhận thông tin nhật kí GPS</string>
+    <string name="upload_modem_log">Bắt đầu nhận thông tin nhật kí modem</string>
     <string name="Accounts_settings_title">Tài khoản</string>
     <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
     <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
