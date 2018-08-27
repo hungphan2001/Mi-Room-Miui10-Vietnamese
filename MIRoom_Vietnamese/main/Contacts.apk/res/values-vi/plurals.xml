@@ -27,6 +27,9 @@
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d liên hệ đã nhập</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Đã nhập %1$d liên hệ</item>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Chặn %1$d số điện thoại?</item>
     </plurals>

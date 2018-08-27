@@ -365,7 +365,6 @@ Danh thiếp sẽ tắt"</string>
     <string name="device_import_progress_begin_message">Đang nhập…</string>
     <string name="device_import_progress_end_message">Đã nhập</string>
     <string name="device_import_progress_message">Đang nhập…</string>
-    <string name="device_import_progress_toast">Đã nhập %1$d liên hệ</string>
     <string name="device_import_title">Nhập</string>
     <string name="device_list_title">Chọn một thiết bị</string>
     <string name="device_other_guide">Thiết bị khác hỗ trợ bluetooth?</string>
@@ -900,6 +899,7 @@ Nguyên nhân: \"%s\""</string>
     <string name="preference_others">Khác</string>
     <string name="preference_phone">Thiết bị</string>
     <string name="preference_phone_more_title">Cài đặt cuộc gọi</string>
+    <string name="preference_privacy_policy_title">Chính sách Riêng tư</string>
     <string name="preference_remove_duplicate">Hợp nhất liên hệ trùng lặp</string>
     <string name="preference_show_firewall_calllog">Hiển thị cuộc gọi bị chặn trong lịch sử cuộc gọi</string>
     <string name="preference_show_yellowpage_tab_description">Danh bạ web có thể làm việc không chính xác nếu tắt tính năng này.</string>
@@ -945,6 +945,7 @@ Nguyên nhân: \"%s\""</string>
     <string name="quickcontact_missing_app">Không tìm thấy ứng dụng để xử lý tác vụ này</string>
     <string name="quit_dialog_confirm_message">Bạn chưa hợp nhất bất kỳ liên hệ nào</string>
     <string name="quit_dialog_confirm_title">Hủy hợp nhất liên hệ</string>
+    <string name="rcs_app_name">Ứng dụng mini</string>
     <string name="readOnlyContactDeleteConfirmation">Liên hệ này chứa thông tin từ nhiều tài khoản. Thông tin từ các tài khoản ở chế độ chỉ đọc sẽ bị ẩn trong danh sách liên hệ của bạn, chứ không bị xóa.</string>
     <string name="readOnlyContactWarning">Bạn không thể xóa địa chỉ liên hệ từ tài khoản chỉ đọc, nhưng bạn có thể ẩn chúng trong danh sách địa chỉ liên hệ của mình.</string>
     <string name="readingSimContacts">Đang đọc thẻ SIM…</string>
@@ -1140,8 +1141,8 @@ Nguyên nhân: \"%s\""</string>
     <string name="title_other_devices">Các thiết bị khả dụng khác</string>
     <string name="title_paired_devices">Thiết bị đã ghép nối</string>
     <string name="toast_call_detail_error">Không thể đọc chi tiết về cuộc gọi yêu cầu</string>
-    <string name="toast_call_no_SoundRecorder">Recorder app not available</string>
-    <string name="toast_call_no_notes">Notes app not available</string>
+    <string name="toast_call_no_SoundRecorder">Ghi âm không khả dụng</string>
+    <string name="toast_call_no_notes">Ứng dụng Ghi chú không khả dụng</string>
     <string name="toast_copy_done">Hoàn tất</string>
     <string name="toast_copying">Đang sao chép…</string>
     <string name="toast_displaying_all_contacts">Đang hiển thị tất cả liên hệ</string>

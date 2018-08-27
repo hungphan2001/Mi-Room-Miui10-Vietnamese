@@ -89,6 +89,7 @@ Tính năng này mã hóa và gửi ID của thiết bị lên máy chủ Mi."</
     <string name="micloud_dspt">Sử dụng Mi Cloud để đồng bộ dữ liệu, định vị thiết bị của bạn,</string>
     <string name="micloud_sec_dspt">và chia sẻ mọi thứ với bạn bè.</string>
     <string name="micloud_dspt_provision">Sử dụng Mi Cloud để đồng bộ dữ liệu, định vị thiết bị của bạn, và chia sẻ mọi thứ với bạn bè.</string>
+    <string name="micloud_dspt_provision_xms">Sử dụng Mi Cloud để đồng bộ dữ liệu.</string>
     <string name="micloud_proceed">Tiếp tục</string>
     <string name="master_alert_notif_title">Bật đồng bộ với Mi Cloud</string>
     <string name="master_alert_notif_content">Không thể đồng bộ</string>
@@ -159,6 +160,7 @@ Tính năng này mã hóa và gửi ID của thiết bị lên máy chủ Mi."</
 Sử dụng tài khoản khác."</string>
     <string name="micloud_main_cancel_sync">Hủy đồng bộ</string>
     <string name="micloud_main_query_again">Gửi yêu cầu khác</string>
+    <string name="micloud_main_cancel_sync_now">Đang hủy…</string>
     <string name="micloud_main_wait_wlan">Đang chờ kết nối Wi-Fi</string>
     <string name="micloud_main_wait_wlan_charge_sleep">Kết nối Wi-Fi, tắt màn hình, và sạc đầy thiết bị để hoàn tất đồng bộ.</string>
     <string name="micloud_main_wait_wlan_charge">Kết nối Wi-Fi và sạc đầy thiết bị để hoàn tất đồng bộ.</string>
@@ -168,6 +170,11 @@ Sử dụng tài khoản khác."</string>
     <string name="micloud_main_button_set_internet">Cài đặt</string>
     <string name="micloud_main_button_activate">Kích hoạt</string>
     <string name="micloud_main_button_authorize">Ủy quyền</string>
+    <string name="micloud_main_simple_synced">Đã đồng bộ</string>
+    <string name="micloud_main_simple_syncing">Đang đồng bộ</string>
+    <string name="micloud_main_simple_pending">Đang chờ</string>
+    <string name="micloud_main_simple_off">Đồng bộ tắt</string>
+    <string name="micloud_main_simple_last_sync_time">Đồng bộ lần cuối: %s</string>
     <string name="micloud_detail_syncing">Đang đồng bộ</string>
     <string name="micloud_detail_pending">Đang chờ</string>
     <string name="micloud_detail_success">Đã đồng bộ</string>
@@ -378,16 +385,11 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="member_menu_vipname_premium">Premium</string>
     <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_ultra">Ultra</string>
+    <string name="micloud_storage_unit_mb">%sMB</string>
+    <string name="micloud_storage_unit_gb">%sGB</string>
     <string name="micloud_main_memory_low_title">Bộ nhớ trong của điện thoại đã đầy</string>
     <string name="micloud_notif_title_memory_low">Không thể đồng bộ với Mi Cloud</string>
     <string name="find_device_service_title">Tìm thiết bị</string>
     <string name="micloud_wipe_data_confirm_title">Xóa các mục đã đồng bộ với Mi Cloud khỏi điện thoại sau khi bạn đăng xuất?</string>
     <string name="wipe_data_dialog_msg">Vài mục %s chưa được đồng bộ. Chúng sẽ được lưu trên thiết bị và sẽ không bị xóa.</string>
-	<string name="micloud_dspt_provision_xms">Sử dụng Mi Cloud để sao lưu dữ liệu.</string>
-    <string name="micloud_main_cancel_sync_now">Hủy…</string>
-    <string name="micloud_main_simple_synced">Đã đồng bộ</string>
-    <string name="micloud_main_simple_syncing">Đang đồng bộ</string>
-    <string name="micloud_main_simple_pending">Dừng</string>
-    <string name="micloud_main_simple_off">Tắt đồng bộ</string>
-    <string name="micloud_main_simple_last_sync_time">Thời gian sao lưu gần nhất： %s</string>
 </resources>

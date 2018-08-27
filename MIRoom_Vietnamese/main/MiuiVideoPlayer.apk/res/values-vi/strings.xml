@@ -152,10 +152,11 @@
     <string name="lv_auto_update">Cập nhật sau</string>
     <string name="lv_brightness">Độ sáng</string>
     <string name="lv_check_delete_file">Chọn mục để xóa</string>
-    <string name="lv_check_send_file">Chọn một mục để gửi</string>
+    <string name="lv_check_send_file">Bạn chỉ có thể gửi 1 tập tin vào lúc này</string>
     <string name="lv_confirm_delete_history">Xóa mục đã chọn?</string>
     <string name="lv_confirm_delete_videos">Xóa mục?</string>
     <string name="lv_confirm_hide_videos">Ẩn video?</string>
+    <string name="lv_confirm_unhide_videos">Bỏ ẩn video?</string>
     <string name="lv_deleting">Đang xóa…</string>
     <string name="lv_device_list">Thiết bị</string>
     <string name="lv_device_list_seaching">&lt;Không có thiết bị để chiếu></string>
@@ -171,6 +172,7 @@
     <string name="lv_home_favorites">Yêu thích</string>
     <string name="lv_home_localt">Trên máy</string>
     <string name="lv_home_recent">Gần đây</string>
+    <string name="lv_home_settings">Cài đặt</string>
     <string name="lv_input_password">Nhập mật khẩu</string>
     <string name="lv_local_folder">Thư mục</string>
     <string name="lv_local_video">Video</string>
@@ -178,6 +180,7 @@
     <string name="lv_menu_delete">Xóa</string>
     <string name="lv_menu_hide">Ẩn</string>
     <string name="lv_menu_send">Gửi</string>
+    <string name="lv_menu_unhide">Bỏ ẩn</string>
     <string name="lv_mplayer_error_io">Không thể đọc tập tin phương tiện</string>
     <string name="lv_mplayer_error_malformed">Tập tin phương tiện không hợp lệ</string>
     <string name="lv_mplayer_error_server_died">Lỗi máy chủ phương tiện</string>
@@ -230,6 +233,7 @@
     <string name="lv_subtitle_synchronization_title">Đồng bộ</string>
     <string name="lv_subtitle_title">Phụ đề</string>
     <string name="lv_subtitle_track">Phụ đề</string>
+    <string name="lv_unhide_prompt">Thiết lập thành công. Bạn có thể xem các mục đã bỏ ẩn vào bây giờ.</string>
     <string name="lv_updating">Đang cập nhật…</string>
     <string name="lv_videoView_error_text_invalid_progressive_playback">Không thể phát video này trên thiết bị của bạn.</string>
     <string name="lv_videoView_error_text_unknown">Không thể phát video này.</string>
@@ -248,11 +252,21 @@
     <string name="ovp_category">Phân loại</string>
     <string name="ovp_confirm_delete_favor">Xóa mục đã chọn khỏi yêu thích?</string>
     <string name="ovp_default_plugin_name">Trình cắm HD</string>
+    <string name="ovp_detail_collapse_summary">Ẩn</string>
     <string name="ovp_detail_collect">Thêm vào yêu thích</string>
     <string name="ovp_detail_comment">Bình luận</string>
+    <string name="ovp_detail_deeplink_collect">Đã thêm vào yêu thích</string>
+    <string name="ovp_detail_deeplink_plugin_download_error">Không thể tải xuống trình cắm</string>
+    <string name="ovp_detail_deeplink_plugin_downloading">Đang tải xuống trình cắm</string>
+    <string name="ovp_detail_deeplink_plugin_install_error">Không thể cài đặt trình cắm</string>
+    <string name="ovp_detail_deeplink_unCollect">Xóa khỏi yêu thích</string>
     <string name="ovp_detail_douban_score">Đánh giá Doubian</string>
     <string name="ovp_detail_download">Tải xuống</string>
     <string name="ovp_detail_has_empty_cp">Video hiện không khả dụng.</string>
+    <string name="ovp_detail_more_episode">THÊM</string>
+    <string name="ovp_detail_more_summary">Thêm</string>
+    <string name="ovp_detail_require_pay">Cho thuê</string>
+    <string name="ovp_detail_require_subscription">Yêu cầu đăng ký</string>
     <string name="ovp_detail_score">"Đánh giá: "</string>
     <string name="ovp_detail_shortcut">Lối tắt</string>
     <string name="ovp_detail_summary">Tóm tắt</string>
@@ -265,6 +279,7 @@
     <string name="ovp_episode_suffix">"Tập %d "</string>
     <string name="ovp_favor">Yêu thích</string>
     <string name="ovp_favor_null">Không có mục nào ở đây.</string>
+    <string name="ovp_feedback_title">Phản hồi Mi Video</string>
     <string name="ovp_home_folder_is_null_jump_upfolder_tip">Không tìm thấy tập tin phương tiện. Tự động chuyển đến thư mục cấp cao hơn.</string>
     <string name="ovp_home_item_camera">Thư viện</string>
     <string name="ovp_home_item_download">Tải xuống</string>
@@ -276,6 +291,7 @@
     <string name="ovp_local_videos_title">Video trên máy</string>
     <string name="ovp_navigation_category">Phân loại</string>
     <string name="ovp_navigation_favorites">Yêu thích</string>
+    <string name="ovp_navigation_feedback">Phản hồi</string>
     <string name="ovp_navigation_history">Lịch sử</string>
     <string name="ovp_navigation_home">Trang chủ</string>
     <string name="ovp_navigation_localvideo">Trên máy</string>
@@ -287,6 +303,7 @@
     <string name="ovp_setting_clear_cache_success">Xóa bộ nhớ đệm thành công</string>
     <string name="ovp_setting_clear_cache_text">Xóa các tập tin bộ nhớ đệm được lưu trên thiết bị của bạn</string>
     <string name="ovp_setting_clear_cache_title">Xóa bộ nhớ đệm</string>
+    <string name="ovp_setting_privacy_policy_title">Chính sách Riêng tư</string>
     <string name="ovp_setting_version_info_title">Phiên bản</string>
     <string name="ovp_start_error_msg">Không thể phát video này</string>
     <string name="ovp_video_bad_network_condition">Không thể kết nối mạng.</string>
@@ -295,6 +312,7 @@
     <string name="ovp_video_loading">Chuẩn bị phát %1$s…</string>
     <string name="ovp_video_plugin_installation">Đang cài đặt %1$s…</string>
     <string name="ovp_video_plugin_installation_failure">Không thể cài đặt %1$s</string>
+    <string name="ovp_video_plugin_installation_two">Vui lòng chờ…</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Kéo lên để làm mới…</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">Vui lòng chờ…</string>
     <string name="pull_to_refresh_from_bottom_release_label">Thả để làm mới…</string>
@@ -353,6 +371,7 @@ Kiểm tra các video khác!"</string>
     <string name="t_exit_app">Chạm lại để thoát.</string>
     <string name="t_lv_check_delete_history">Chọn mục để xóa</string>
     <string name="t_lv_check_hide_file">Chọn video để ẩn</string>
+    <string name="t_lv_check_unhide_file">Chọn video để bỏ ẩn</string>
     <string name="t_lv_downloading_new_version">Đang tải cập nhật xuống…</string>
     <string name="t_lv_no_new_version">Mi Video đã được cập nhật.</string>
     <string name="t_lv_password_limit">Mật khẩu phải chứa ít nhất 4 ký tự</string>
@@ -367,14 +386,12 @@ Kiểm tra các video khác!"</string>
     <string name="update">Cập nhật</string>
     <string name="v_app_name">Mi Video</string>
     <string name="v_pw_need_update_app">Cập nhật Mi Video để sử dụng tất cả tính năng</string>
-    <string name="ovp_detail_collapse_summary">Ẩn</string>
-    <string name="ovp_detail_deeplink_plugin_download_error">Không thể tải xuống trình cắm</string>
-    <string name="ovp_detail_deeplink_plugin_downloading">Đang tải xuống trình cắm</string>
-    <string name="ovp_detail_deeplink_plugin_install_error">Không thể cài đặt trình cắm</string>
-    <string name="ovp_detail_more_episode">THÊM</string>
-    <string name="ovp_detail_more_summary">Thêm</string>
-    <string name="ovp_detail_require_pay">Cho thuê</string>
-    <string name="ovp_detail_require_subscription">Yêu cầu đăng ký</string>
-    <string name="ovp_feedback_title">Phản hồi Mi Video</string>
-    <string name="ovp_navigation_feedback">Phản hồi</string>
+    <string name="explore_On">Mở Mi Video</string>
+    <string name="for_you">Tùy chỉnh cá nhân</string>
+    <string name="mi_video">Mi Video</string>
+    <string name="no_recommend_data">hiện không có video được kiến nghị</string>
+    <string name="pw_filter_no_result">Không tìm thấy kết quả. Hãy thử thiết lập khác của bộ lọc.</string>
+    <string name="recommend_online_switch">Kiến nghi trực tuyến</string>
+    <string name="recommend_online_tips">Bật để nhận được kiến nghị video trực tuyến</string>
+    <string name="recommend_page_replay">PHÁT LẠI</string>
 </resources>

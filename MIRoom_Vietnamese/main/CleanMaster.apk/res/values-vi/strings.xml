@@ -26,7 +26,7 @@
     <string name="empty_title_apk">Không tìm thấy gói cài đặt</string>
     <string name="empty_title_residual">Không tìm thấy rác</string>
     <string name="btn_text_quick_cleanup">Dọn dẹp</string>
-    <string name="hints_title_garbage">rác</string>
+    <string name="hints_title_garbage">Thùng rác</string>
     <string name="activity_title_main">Dọn dẹp</string>
     <string name="activity_title_deep_clean">Dọn dẹp sâu</string>
     <string name="activity_title_cache">Bộ nhớ đệm</string>
@@ -61,6 +61,7 @@
     <string name="pref_category_title_garbage_cleanup_check">Thông báo</string>
     <string name="pref_summary_garbage_cleanup_check_time">Lịch trình dọn dẹp định kỳ</string>
     <string name="pref_title_garbage_cleanup_check_time">Lịch trình</string>
+    <string name="pref_about_privacy_title">Chính sách Riêng tư</string>
     <string name="pref_summary_garbage_cleanup_check_size">Dọn dẹp tự động khi thùng rác đạt đến một kích thước nhất định</string>
     <string name="pref_title_garbage_cleanup_check_size">Giới hạn kích thước thùng rác</string>
     <string name="pref_title_garbage_cleanup_size">Giới hạn kích thước thùng rác</string>
@@ -195,7 +196,7 @@
     <string name="deepclean_normal_title">Dọn dẹp tự động</string>
     <string name="deepclean_normal_item_desc1">Tập tin rác</string>
     <string name="deepclean_normal_item_desc2">Hoạt động dọn dẹp không ảnh hưởng đến hiệu suất hệ thống</string>
-    <string name="deepclean_1_k_clean">Dọn dẹp nhanh</string>
+    <string name="deepclean_1_k_clean">Xóa bộ nhớ</string>
     <string name="similar_image_title">Ảnh</string>
     <string name="similar_image_desc">Xóa ảnh tương tự</string>
     <string name="similar_image_scaning">Đang kiểm tra…</string>
@@ -530,7 +531,7 @@
     <string name="wechat_msg_time_long">dd-MM-yyyy</string>
     <string name="wechat_msg_time_short">dd-MM</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
-    <string name="main_total_garbage">Tổng rác</string>
+    <string name="main_total_garbage">Kích thước rác</string>
     <string name="whatsapp_group_image">Ảnh</string>
     <string name="whatsapp_group_video">Video</string>
     <string name="whatsapp_group_voice">Tin nhắn thoại</string>
@@ -538,7 +539,7 @@
     <string name="whatsapp_group_wallpaper">Hình nền</string>
     <string name="whatsapp_group_gif">GIF</string>
     <string name="whatsapp_group_document">Tài liệu</string>
-    <string name="whatsapp_btn_quick_cleanup">Xóa mục đã chọn(%s)</string>
+    <string name="whatsapp_btn_quick_cleanup">Xóa mục đã chọn (%s)</string>
     <string name="whatsapp_type_image_send">Đã gửi ảnh</string>
     <string name="whatsapp_type_image_recv">Đã nhận ảnh</string>
     <string name="whatsapp_type_document_send">Đã gửi tập tin</string>
@@ -553,17 +554,17 @@
     <string name="whatsapp_content_empty">Không có mục nào ở đây.</string>
     <string name="whatsapp_delete_confirm_message">Xóa ngay?</string>
     <string name="whatsapp_delete_done">Hoàn tất</string>
-    <string name="whatsapp_title">Trình dọn dẹp Whatsapp</string>
+    <string name="whatsapp_title">Trình dọn dẹp WhatsApp</string>
     <string name="whatsapp_function_title">Trình dọn dẹp WhatsApp</string>
     <string name="whatsapp_function_summery">Xóa tập tin đính kèm WhatsApp</string>
-	<string name="clean_summary">Đã xóa %1$s tệp</string>
-	<string name="onekeyclean_boosting_title">Tốc độ khởi động</string>
-    <string name="onekeyclean_boosted_title">Dọn dẹp thành công</string>
+    <string name="clean_summary">Đã xóa %1$s tập tin</string>
+    <string name="onekeyclean_boosting_title">Đang tăng tốc</string>
+    <string name="onekeyclean_boosted_title">Đã xóa thành công</string>
     <string name="onekeyclean_boost_cleaned">Đã xóa %s</string>
-    <string name="onekeyclean_boost_available">%s khả dụng</string>
-    <string name="onekeyclean_card_summery">Dọn dẹp rác để làm trống bộ nhớ</string>
+    <string name="onekeyclean_boost_available">Trống %s</string>
+    <string name="onekeyclean_card_summery">Xóa rác để giải phóng dung lượng</string>
     <string name="onekeyclean_card_btn">Dọn dẹp ngay</string>
-    <string name="memory_clean_icon_text">Dọn dẹp bộ nhớ</string>
-    <string name="pref_title_create_onekeyclean_shortcut">Hiển thị phím tắt Màn hình chính</string>
-    <string name="memory_clean_no_trash_tip">Có vẻ tất cả mọi thứ rất tốt</string>
+    <string name="memory_clean_icon_text">Xóa bộ nhớ</string>
+    <string name="pref_title_create_onekeyclean_shortcut">Hiển thị lối tắt Màn hình chính</string>
+    <string name="memory_clean_no_trash_tip">Mọi thứ đều tốt</string>
 </resources>

@@ -12,9 +12,9 @@
     <string name="video_camera_label">Máy quay</string>
     <string name="wait">Vui lòng chờ…</string>
     <string name="no_storage">Lắp thẻ SD trước khi sử dụng máy ảnh</string>
-    <string name="not_enough_space">Bộ nhớ trong đã đầy</string>
-    <string name="preparing_sd">Đang kiểm tra bộ nhớ trong…</string>
-    <string name="access_sd_fail">Không thể truy cập lưu trữ USB.</string>
+    <string name="not_enough_space">Thẻ SD đã đầy</string>
+    <string name="preparing_sd">Đang kiểm tra thẻ SD…</string>
+    <string name="access_sd_fail">Không thể truy cập thẻ SD.</string>
     <string name="confirm_restore_title">Khôi phục cài đặt mặc định</string>
     <string name="confirm_restore_message">Khôi phục Máy ảnh về cài đặt mặc định?</string>
     <string name="confirm_location_title">Nhớ vị trí bức ảnh?</string>
@@ -200,6 +200,7 @@
     <string name="tap_to_exposure">Chạm để điều chỉnh phơi sáng thủ công</string>
     <string name="accessibility_shutter_button">Phím chụp</string>
     <string name="accessibility_intent_done_apply">Hoàn tất</string>
+    <string name="accessibility_intent_done_retry">Chụp lại</string>
     <string name="accessibility_review_thumbnail">Ảnh gần đây nhất</string>
     <string name="accessibility_camera_picker">Chuyển đổi máy ảnh trước và sau</string>
     <string name="accessibility_stereo_button">Điều chỉnh lấy nét</string>
@@ -491,8 +492,8 @@ và tạo ra một ảnh đẹp nhất với độ nhiễu thấp nhất."</stri
     <string name="beauty_fragment_tab_name_beauty">Làm đẹp</string>
     <string name="beauty_fragment_tab_name_makeup">Nâng cao</string>
     <string name="beauty_fragment_tab_name_3d_beauty">Làm đẹp</string>
-    <string name="beauty_fragment_tab_name_3d_remodeling">Sửa đổi</string>
-    <string name="beauty_fragment_tab_name_3d_makeup">Makeup</string>
+    <string name="beauty_fragment_tab_name_3d_remodeling">Làm đẹp</string>
+    <string name="beauty_fragment_tab_name_3d_makeup">Trang điểm</string>
     <string name="edit_skin_white">Trắng đẹp</string>
     <string name="edit_skin_smooth">Mịn da</string>
     <string name="edit_eye_large">Mắt to</string>
@@ -501,15 +502,15 @@ và tạo ra một ảnh đẹp nhất với độ nhiễu thấp nhất."</stri
     <string name="edit_nose">Mũi</string>
     <string name="edit_risorius">Cơ cười</string>
     <string name="edit_lips">Màu môi</string>
-    <string name="edit_chin">Càm</string>
+    <string name="edit_chin">Cằm</string>
     <string name="edit_neck">Cổ</string>
-    <string name="edit_smile">Cười</string>
+    <string name="edit_smile">Nụ cười</string>
     <string name="edit_slim_nose">Mũi</string>
     <string name="popup_tip_3d_beauty_intro_text">Làm đẹp 3D</string>
-    <string name="edit_eyebrow_dye">Eyebrows</string>
-    <string name="edit_pupil_line">Eyeliner</string>
-    <string name="edit_jelly_lips">Lip gloss</string>
-    <string name="edit_blusher">Rouge</string>
+    <string name="edit_eyebrow_dye">Kẻ mày</string>
+    <string name="edit_pupil_line">Kẻ mắt</string>
+    <string name="edit_jelly_lips">Làm bóng môi</string>
+    <string name="edit_blusher">Phấn hồng</string>
     <string name="sticker_tab1">Đáng yêu</string>
     <string name="sticker_tab2">Hài hước</string>
     <string name="user_agreement2">Điều khoản Dịch vụ</string>
@@ -559,4 +560,5 @@ trong Chế độ chân dung"</string>
     <string name="lighting_pattern_leaf">Chiếc lá</string>
     <string name="lighting_pattern_dot">Chấm bi</string>
     <string name="lighting_pattern_shutter">Cửa sổ</string>
+    <string name="view_privacy_policy">Xem Chính sách Riêng tư</string>
 </resources>

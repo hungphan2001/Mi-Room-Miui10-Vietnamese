@@ -174,7 +174,10 @@
     <string name="resolver_app_recommend_flag">Kiến nghị</string>
     <string name="voice_button_action_up">Nhấn để nói</string>
     <string name="voice_button_action_down">Thả để tìm kiếm</string>
-    <string name="voice_begin">Bạn muốn kiếm gì?</string>
+    <string name="voice_begin">Bạn muốn tìm gì?</string>
     <string name="voice_input_error_network">Không thể kết nối mạng. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
     <string name="voice_input_error_other">Xảy ra lỗi. Chờ một hoặc hai phút và thử lại.</string>
+    <string name="miui_warning_button_ok">OK</string>
+    <string name="miui_warning_button_cancel">Hủy</string>
+    <string name="miui_warning_tip_info">Đã xảy ra lỗi %1$s. Đóng ứng dụng này ngay?</string>
 </resources>

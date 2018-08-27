@@ -29,8 +29,8 @@
         <item>Tất cả sự kiện tương tự</item>
     </string-array>
     <string-array name="date_calculate_spinner">
-        <item>Tiến tới</item>
-        <item>Lùi lại</item>
+        <item>Về trước</item>
+        <item>Về sau</item>
     </string-array>
     <string-array name="default_reminder_labels">
         <item>Vào thời gian sự kiện</item>

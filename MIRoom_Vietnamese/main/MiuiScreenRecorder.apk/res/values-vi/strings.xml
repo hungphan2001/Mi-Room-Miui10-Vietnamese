@@ -24,6 +24,8 @@
     <string name="description_title">Giới thiệu Quay phim Màn hình</string>
     <string name="deselect_all">Bỏ chọn tất cả</string>
     <string name="error_open_file_failed_no_app_found">Không tìm thấy ứng dụng để mở tập tin này</string>
+    <string name="first_using_mic_dialog_message">Quay phim màn hình cần truy cập micro để ghi âm. Cho phép?</string>
+    <string name="first_using_mic_dialog_title">Yêu cầu quyền</string>
     <string name="fixed_frame_rate">Tỷ lệ khung hình cố định</string>
     <string name="fixed_frame_rate_summary">Quay video với tốc độ khung cố định tăng cường phát lại trên nền tảng phương tiện xã hội và giảm tuổi thọ pin.</string>
     <string name="frames">Tỷ lệ khung hình</string>
@@ -82,4 +84,6 @@
     <string name="storage_location_summary">Chọn tùy chọn lưu trữ ưu tiên</string>
     <string name="timer_format">%s</string>
     <string name="unchecked">Chưa chọn</string>
+    <string name="using_record_confirm_cancel">Hạn chế</string>
+    <string name="using_record_confirm_ok">Cho phép</string>
 </resources>

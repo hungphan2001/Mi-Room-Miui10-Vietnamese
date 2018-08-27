@@ -95,6 +95,7 @@
     <string name="error_sdcard_unmounted">Gắn thẻ SD bây giờ</string>
     <string name="record_back_pressed_hint">Để dừng ghi âm, chạm phím Quay lại lần nữa</string>
     <string name="record_mark_point">%s đánh dấu</string>
+    <string name="record_format_preference_title">Định dạng ghi âm</string>
     <string name="record_quliaty_preference_title">Chất lượng ghi âm</string>
     <string name="cloud_record_tip">Đồng bộ ghi âm với Mi Cloud.</string>
     <string name="cloud_record_open">Đồng bộ ghi âm</string>
@@ -152,5 +153,5 @@
     <string name="head_set_tip_dialog_ok">Tôi biết</string>
     <string name="rename_fail_tip">Không thể đổi tên. Mục có tên này đã tồn tại.</string>
     <string name="dialog_privacy_revoke_tips">Sau khi bạn hủy ủy quyền, ứng dụng sẽ dừng thu thập dữ liệu và tất cả dữ liệu liên quan sẽ bị xóa khỏi máy chủ. Điều này có thể làm cho ứng dụng hầu như không sử dụng được. Vẫn tiếp tục hủy? Để đảm bảo an toàn cho tài khoản của bạn, hãy đăng nhập vào i.mi.com trước khi hủy ủy quyền dịch vụ Mi Cloud.</string>
-	<string name="privacy_policy_title">Chính sách bảo mật</string>
+    <string name="privacy_policy_title">Chính sách Riêng tư</string>
 </resources>

@@ -8,6 +8,16 @@
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
     <string name="abc_capital_off">TẮT</string>
     <string name="abc_capital_on">BẬT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">phím cách</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
     <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -84,6 +94,7 @@
     <string name="athome_subtitles_off">Tắt</string>
     <string name="audio">Âm thanh</string>
     <string name="audio_langage_selector_dialog_title">Phát video bằng</string>
+    <string name="audio_language_51">%1$s (5.1)</string>
     <string name="banner_content_filtering_on">Kiểm soát của phụ huynh bật</string>
     <string name="begin_playback_confirmation_days">Bạn có muốn bắt đầu phát lại không? Video cho thuê này sẽ hết hạn sau %1$d ngày kể từ khi bạn bắt đầu xem.</string>
     <string name="begin_playback_confirmation_hours">Bạn có muốn bắt đầu phát lại không? Video cho thuê này sẽ hết hạn sau %1$d giờ kể từ khi bạn bắt đầu xem video.</string>
@@ -104,6 +115,7 @@
     <string name="cancel">Hủy</string>
     <string name="cannot_connect_to_auth_server_text">Không thể đăng nhập vào %1$s</string>
     <string name="cannot_connect_to_auth_server_text_unknown_device">Không thể đăng nhập vào thiết bị</string>
+    <string name="caption_language">%1$s [CC]</string>
     <string name="caption_settings_title">Cài đặt phụ đề</string>
     <string name="cast_notification_connected_message">Đã kết nối với %1$s</string>
     <string name="cast_notification_connecting_message">Đang kết nối với %1$s</string>
@@ -436,7 +448,9 @@ Xem các bộ phim yêu thích tức thì trên điện thoại hoặc máy tín
     <string name="menu_download">Tải xuống</string>
     <string name="menu_feedback">Gửi phản hồi</string>
     <string name="menu_full_store">Cửa hàng đầy đủ</string>
+    <string name="menu_grid">Lưới</string>
     <string name="menu_help_and_feedback">Trợ giúp và phản hồi</string>
+    <string name="menu_list">Danh sách</string>
     <string name="menu_manage_services">Quản lý dịch vụ</string>
     <string name="menu_more">Thêm</string>
     <string name="menu_pin_screen">Khóa màn hình</string>
@@ -449,6 +463,7 @@ Xem các bộ phim yêu thích tức thì trên điện thoại hoặc máy tín
     <string name="menu_share_asset">Thêm vào Thư viện gia đình</string>
     <string name="menu_sharing_asset">Thêm vào Thư viện gia đình...</string>
     <string name="menu_shop">Mua sắm</string>
+    <string name="menu_sort">Sắp xếp</string>
     <string name="menu_unshare_asset">Xóa khỏi Thư viện gia đình</string>
     <string name="menu_unsharing_asset">Xóa khỏi Thư viện gia đình…</string>
     <string name="menu_zoom_in">Phóng to</string>
@@ -557,6 +572,9 @@ Xem các bộ phim yêu thích tức thì trên điện thoại hoặc máy tín
     <string name="pinning_error_too_many_device_deactivations_on_account">Tài khoản của bạn đã được sử dụng để tải video xuống quá nhiều thiết bị.</string>
     <string name="pinning_error_unsupported_video_format">Định dạng của video này không được hỗ trợ.</string>
     <string name="play">Phát</string>
+    <string name="play__fireball__reset_content_description">Clear all tag selections</string>
+    <string name="play__fireball__selected_tag_content_description">Selected tag: %1$s</string>
+    <string name="play__fireball__unselected_tag_content_description">Unselected tag: %1$s</string>
     <string name="play_accessibility_search_plate_back_button">Trở lại</string>
     <string name="play_accessibility_search_plate_clear">Xóa</string>
     <string name="play_accessibility_search_plate_navigate_up_button">Điều hướng lên</string>
@@ -786,6 +804,12 @@ Xem các bộ phim yêu thích tức thì trên điện thoại hoặc máy tín
     <string name="show_sharing_message">Bạn sở hữu một số tập của chương trình này hiện không có trong Thư viện gia đình. Bạn có muốn thêm chúng không?</string>
     <string name="show_sharing_remove_all_button_label">Xóa tất cả</string>
     <string name="show_sharing_title">Thêm các tập mà bạn sở hữu?</string>
+    <string name="snackbar_dismissal">Bỏ qua</string>
+    <string name="sort_by_date_added">Ngày thêm</string>
+    <string name="sort_by_release_year">Năm phát hành</string>
+    <string name="sort_by_title">Tiêu đề</string>
+    <string name="sort_movies_by">Sắp xếp phim theo</string>
+    <string name="sort_shows_by">Sắp xếp chương trình theo</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_space_free">%1$s trống</string>
     <string name="streaming_devices_quota_exceeded">Bạn đã vượt quá số lượng thiết bị tối đa cho phép mà có thể truyền trực tuyến video này trên đó trong vòng 24 giờ.</string>

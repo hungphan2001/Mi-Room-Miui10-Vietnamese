@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="toast_notes_hidden_edit">Ghi chú này đã được ẩn thành công. Kéo xuống để xem ghi chú ẩn.</string>
-    <string name="toast_notes_hidden_home">Ghi chú này đã được ẩn thành công. Kéo xuống để xem ghi chú ẩn.</string>
     <string name="action_folder_description">Xem thư mục</string>
     <string name="action_mode_switcher_grid_description">Xem theo ô lưới</string>
     <string name="action_mode_switcher_list_description">Xem theo danh sách</string>
@@ -128,7 +126,7 @@
     <string name="note_sort_way">Chọn cách bạn muốn sắp xếp ghi chú</string>
     <string name="notealert_enter">Mở ghi chú</string>
     <string name="notealert_ok">Bỏ qua</string>
-    <string name="notelist_string_info">...</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Nhắc nhở ghi chú</string>
     <string name="permdesc_accessNote">Ứng dụng độc hại có thể sử dụng để truy cập thông tin cá nhân của bạn.</string>
     <string name="permlab_accessNote">Truy cập ghi chú</string>
@@ -163,6 +161,8 @@
     <string name="search_setting_description">Tìm văn bản trong ghi chú của bạn</string>
     <string name="select_account_prompt">Đồng bộ ghi chú</string>
     <string name="set_alarm_description">Đặt báo thức</string>
+    <string name="setting_other">KHÁC</string>
+    <string name="setting_privacy">Chính sách Riêng tư</string>
     <string name="snippet_audio_stub">Ghi chú giọng nói</string>
     <string name="snippet_image_stub">Ghi chú ảnh</string>
     <string name="snippet_image_template">[Ảnh %1$s]</string>
@@ -201,7 +201,6 @@
     <string name="toast_cancel_to_insert_image">Không thể thêm ảnh.</string>
     <string name="toast_message_add_image_fail">Không thể thêm ảnh</string>
     <string name="toast_notes_delete_success">Đã xóa thành công</string>
-    <string name="toast_notes_hidden">Đã ẩn thành công</string>
     <string name="toast_notes_hidden_count">Ẩn %1$s thành công</string>
     <string name="toast_notes_unhidden">Bỏ ẩn thành công</string>
     <string name="toast_notes_unhidden_count">Bỏ ẩn %1$s thành công</string>
@@ -225,7 +224,5 @@
     <string name="unknown_source">Nguồn không xác định</string>
     <string name="widget_content_loading">Vui lòng chờ…</string>
     <string name="widget_havenot_content">Chạm để tạo ghi chú. Bấm giữ tiện ích để thay đổi kích thước.</string>
-    <string name="welcome_note_for_cm">"Và nhiều tính năng tuyệt vời!
- - Đồng bộ với Mi Cloud
- - Đặt nhắc nhở"</string>
+    <string name="toast_notes_hidden">Đã ẩn thành công</string>
 </resources>

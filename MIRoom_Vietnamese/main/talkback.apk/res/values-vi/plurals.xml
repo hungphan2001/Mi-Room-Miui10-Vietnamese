@@ -5,8 +5,8 @@
         <item quantity="one">Đã cập nhật 1 nhãn</item>
     </plurals>
     <plurals name="label_num_keys_assigned_format">
-        <item quantity="other">Đã gán %d nút chuyển</item>
-        <item quantity="one">Đã gán %d nút chuyển</item>
+        <item quantity="other">Đã gán %d công tắc</item>
+        <item quantity="one">Đã gán %d công tắc</item>
     </plurals>
     <plurals name="label_num_scanning_loops_format">
         <item quantity="other">%d vòng lặp</item>
@@ -35,9 +35,5 @@
     <plurals name="template_password_character_count">
         <item quantity="other">%1$d ký tự</item>
         <item quantity="one">%1$d ký tự</item>
-    </plurals>
-    <plurals name="time_delay_summary_format">
-        <item quantity="other">%.2f giây</item>
-        <item quantity="one">1 giây</item>
     </plurals>
 </resources>

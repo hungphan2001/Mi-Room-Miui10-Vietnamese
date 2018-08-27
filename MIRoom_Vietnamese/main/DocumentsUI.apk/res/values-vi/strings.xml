@@ -39,6 +39,7 @@
     <string name="delete_foldername_confirmation_message">Xóa thư mục \"%1$s\" và nội dung trong đó?</string>
     <string name="delete_notification_title">Đang xóa tệp</string>
     <string name="delete_preparing">Đang chuẩn bị xóa…</string>
+    <string name="delete_progress">%1$d / %2$d</string>
     <string name="deny">Từ chối</string>
     <string name="downloads_label">Nội dung tải xuống</string>
     <string name="drawer_close">Ẩn gốc</string>
@@ -110,5 +111,6 @@
     <string name="toast_failed_delete">Không thể xóa một số tài liệu</string>
     <string name="toast_no_application">Không thể mở tệp</string>
     <string name="toast_view_in_archives_unsupported">Không thể mở tệp trong lưu trữ</string>
+    <string name="trusted_quick_viewer_package" />
     <string name="undo">Hoàn tác</string>
 </resources>

@@ -21,15 +21,6 @@
     <plurals name="incorrect_pukcode_remaining_attempts">
         <item quantity="other">Mã PUK không chính xác, còn lại %d lần thử</item>
     </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">Khoảng %d giờ sạc đầy</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">Khoảng %d phút để sạc đầy</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">Khoảng %1$d giờ %2$d phút để sạc đầy</item>
-    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Còn lại khoảng %d giờ</item>
     </plurals>
@@ -52,7 +43,7 @@
         <item quantity="other">Nhập PIN SIM, bạn còn %d lần thử.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">SIM hiện bị vô hiệu. NHập PUK để tiếp tục. Bạn còn %d lần thử trước khi SIM bị vô hiệu vĩnh viễn. Liên hệ với nhà mạng để biết thêm chi tiết.</item>
+        <item quantity="other">SIM hiện bị vô hiệu. Nhập PUK để tiếp tục. Bạn còn %d lần thử trước khi SIM bị vô hiệu vĩnh viễn. Liên hệ với nhà mạng để biết thêm chi tiết.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Mã PIN SIM sai, bạn còn %d lần thử.</item>

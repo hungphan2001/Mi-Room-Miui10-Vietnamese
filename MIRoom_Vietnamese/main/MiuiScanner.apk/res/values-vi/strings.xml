@@ -73,7 +73,7 @@
     <string name="miracast_connect_fail">Không thể chiếu, hãy thử lại</string>
     <string name="miracast_connecting">Đang chiếu…</string>
     <string name="miracast_details">Quét mã QR để chiếu</string>
-    <string name="miracast_message">Chiếu đến %s ?</string>
+    <string name="miracast_message">Phát đến %s?</string>
     <string name="miracast_switch_off">Hiển thị không dây đã tắt</string>
     <string name="miracast_switch_tip">Bật hiển thị không dây để sử dụng tính năng này</string>
     <string name="module_title_code">Mã QR</string>

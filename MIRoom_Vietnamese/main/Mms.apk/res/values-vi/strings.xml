@@ -136,9 +136,19 @@
     <string name="delete_wild_sims_title">Xóa số đã chọn</string>
     <string name="delivery_report_activity">Báo cáo gửi đi</string>
     <string name="delivery_toast_body">Tin nhắn được nhận bởi %s.</string>
+    <string name="delivery_toast_body_more">Tin nhắn được nhận bởi %1$s, và %2$d người khác</string>
     <string name="dialog_message_fake_cell_detect_error">Hiệu chỉnh thông tin tin nhắn này? Để thực hiện thao tác này, MIUI cần tải lên số điện thoại (%1$s), nội dung của tin nhắn và thông tin về vị trí lân cận tới máy chủ.</string>
+    <string name="dialog_message_mx">Tin nhắn Mi cho phép bạn gửi tin nhắn đến người dùng MIUI khác mà không phát sinh chi phí. Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt Tin nhắn Mi. Nhà cung cấp sẽ tính phí tin nhắn này. Bạn phải đồng ý với \"%1$s\" và \"%2$s\" trước khi sử dụng.</string>
+    <string name="dialog_message_mx_rcs">Tin nhắn Mi cho phép bạn gửi tin nhắn đến người dùng MIUI khác và China Mobile mà không phát sinh chi phí. Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt Tin nhắn Mi. Nhà cung cấp sẽ tính phí tin nhắn này. Bạn phải đồng ý với \"%1$s\" và \"%2$s\" trước khi sử dụng. Đồng ý?</string>
+    <string name="dialog_message_networking">Tin nhắn cần kết nối Internet và truy cập vị trí để cung cấp Tin nhắn thông minh, nhận dạng ID người gửi và dịch vụ khác. Bạn phải đồng ý với \"%1$s\" và \"%2$s\" trước khi sử dụng. Cho phép?</string>
+    <string name="dialog_message_networking_mx">Tin nhắn Mi cho phép bạn gửi tin nhắn đến người dùng MIUI khác mà không phát sinh chi phí. Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt Tin nhắn Mi. Nhà cung cấp sẽ tính phí tin nhắn này. Bạn phải đồng ý với \"%1$s\" và \"%2$s\" trước khi sử dụng. Tin nhắn Mi cần kết nối Internet và truy cập vị trí để cung cấp Tin nhắn thông minh, nhận dạng ID người gửi và dịch vụ khác...Cho phép?</string>
+    <string name="dialog_message_networking_mx_rcs">Tin nhắn Mi cho phép bạn gửi tin nhắn đến người dùng MIUI khác và China Mobile mà không phát sinh chi phí. Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt Tin nhắn Mi. Nhà cung cấp sẽ tính phí tin nhắn này. Bạn phải đồng ý với \"%1$s\" và \"%2$s\" trước khi sử dụng. Tin nhắn Mi cần kết nối Internet và truy cập vị trí để cung cấp Tin nhắn thông minh, nhận dạng ID người gửi và dịch vụ khác...Cho phép?</string>
+    <string name="dialog_message_networking_rcs">Tin nhắn China Mobile cho phép bạn gửi tin nhắn đến người dùng China Mobile khác mà không phát sinh chi phí. Bạn phải đồng ý với \"%1$s\" và \"%2$s\" trước khi sử dụng. Tin nhắn China Mobile cần kết nối Internet và truy cập vị trí để cung cấp Tin nhắn thông minh, nhận dạng ID người gửi và dịch vụ khác...Cho phép?</string>
+    <string name="dialog_message_rcs">Tin nhắn China Mobile cho phép bạn gửi tin nhắn đến người dùng China Mobile khác mà không phát sinh chi phí. Bạn phải đồng ý với \"%1$s\" và \"%2$s\" trước khi sử dụng. Đồng ý?</string>
     <string name="dialog_message_sms_report">Tin nhắn rác và thông tin của người gửi sẽ được tải lên MIUI khi bạn báo cáo. Chúng sẽ chỉ được sử dụng để cải thiện bộ lọc tin nhắn rác của MIUI.</string>
     <string name="dialog_title_fake_cell_detect_error">Hiệu chỉnh</string>
+    <string name="dialog_title_mx_rcs">Tin nhắn Mi</string>
+    <string name="dialog_title_networking">Điều khoản và Điều kiện</string>
     <string name="disable_notifications_dialog_message">Ngăn chặn các thông báo tin nhắn văn bản trùng lặp từ ứng dụng Tin nhắn mặc định?</string>
     <string name="disabled">Tắt</string>
     <string name="discard">Hủy</string>
@@ -361,9 +371,18 @@
     <string name="no_subject_view">(Không có chủ đề)</string>
     <string name="non_english_subject_limit">Giới hạn 13 ký tự</string>
     <string name="nosend_message">Không gửi</string>
+    <string name="notification_channel_msg_description">Thông báo tin nhắn</string>
+    <string name="notification_channel_msg_name">Tin nhắn</string>
+    <string name="notification_channel_other_description">Thông báo khác</string>
+    <string name="notification_channel_other_name">Khác</string>
+    <string name="notification_channel_sim1_description">Thông báo tin nhắn SIM 1</string>
+    <string name="notification_channel_sim1_name">Tin nhắn SIM 1</string>
+    <string name="notification_channel_sim2_description">Thông báo tin nhắn SIM 2</string>
+    <string name="notification_channel_sim2_name">Tin nhắn SIM 2</string>
     <string name="notification_copy">Sao chép OTP</string>
     <string name="notification_failed_multiple">%s tin nhắn không thể gửi</string>
     <string name="notification_failed_multiple_title">Tin nhắn không gửi được</string>
+    <string name="notification_group_name">Tin nhắn</string>
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">Tin nhắn mới</string>
     <string name="number_add_hint">Nhập số điện thoại</string>
@@ -398,7 +417,7 @@
     <string name="pref_show_sms_template_entry_summary">Phát hiện mật khẩu sử dụng 1 lần và hiển thị menus nhanh</string>
     <string name="pref_show_sms_template_in_summary">Tự động nhận biết mật khẩu sử dụng một lần trong tin nhắn SMS</string>
     <string name="pref_show_sms_template_summary">Bật để sử dụng tính năng thông minh của Tin nhắn Mi, như sao chép mã, kiểm tra tài khoản, v.v...</string>
-    <string name="pref_smart_messages_settings">Tin nhắn thông minh</string>
+    <string name="pref_smart_messages_settings">Tin nhắn Thông minh</string>
     <string name="pref_sms_storage_title">Lưu trữ</string>
     <string name="pref_sms_theme_title">Hiển thị</string>
     <string name="pref_summary_allow_si_sl_push">Cho phép tin nhắn tải nội dung từ trang web</string>
@@ -460,6 +479,7 @@
     <string name="privacy_password_title2">Sử dụng mật khẩu bảo vệ Cá nhân</string>
     <string name="privacy_password_title3">Nâng cấp mật khẩu</string>
     <string name="privacy_password_title4">Đã nâng cấp mật khẩu</string>
+    <string name="privacy_policy">Chính sách Riêng tư</string>
     <string name="private_message">Tin nhắn cá nhân</string>
     <string name="private_new_notification">Thông báo tin nhắn</string>
     <string name="private_protect">Bảo mật riêng tư</string>
@@ -468,11 +488,20 @@
     <string name="prvate_contact">Liên hệ cá nhân</string>
     <string name="quick_reply">Trả lời</string>
     <string name="rate_limit_surpassed">OK</string>
+    <string name="rcs_message_disable">Không thể xem tin nhắn này trong Không gian thứ hai</string>
     <string name="received_at_time">Đã nhận lúc: %1s</string>
     <string name="received_label">"Đã nhận: "</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recipient_label">"Người nhận: "</string>
     <string name="recipients_over_size">Quá nhiều người nhận.</string>
+    <string name="recommend_bar_cancel">Bỏ qua</string>
+    <string name="recommend_bar_message_mx">Tin nhắn Mi cho phép bạn gửi tin nhắn đến thiết bị MIUI khác mà không phát sinh phí.</string>
+    <string name="recommend_bar_message_mx_rcs">Tin nhắn Mi cho phép bạn gửi tin nhắn đến thiết bị MIUI khác và người dùng China Mobile mà không phát sinh phí.</string>
+    <string name="recommend_bar_message_rcs">Tin nhắn China Mobile cho phép bạn gửi tin nhắn đến người dùng khác mà không phát sinh phí.</string>
+    <string name="recommend_bar_message_smart_message">Sao chép mật khẩu một lần, gói theo dõi, sử dụng menu thông minh và nhiều thứ nữa</string>
+    <string name="recommend_bar_ok">Bật</string>
+    <string name="recommend_bar_title_mx_rcs">Tin nhắn Mi</string>
+    <string name="recommend_bar_title_smart_message">Tin nhắn Thông minh</string>
     <string name="recording_failed">Không thể ghi âm</string>
     <string name="refill_now">Nạp tiền ngay</string>
     <string name="refreshing">Đang làm mới…</string>
@@ -654,6 +683,7 @@
     <string name="unstick">Gỡ</string>
     <string name="unstick_conversation">Gỡ cuộc hội thoại hiện tại</string>
     <string name="unsticked_conversation">Cuộc hội thoại đã được gỡ</string>
+    <string name="unsubscribe">Hủy đăng ký</string>
     <string name="unsupported_media_format">Định dạng %1$s không được hỗ trợ.</string>
     <string name="url_fraud_dangerous_alert">"Trang web mà bạn đang cố gắng truy cập có thể nguy hiểm và có thể ảnh hưởng đến dữ liệu và thiết bị. Vẫn tiếp tục?
 %s"</string>
@@ -664,6 +694,7 @@
     <string name="url_result_safe">URL này an toàn</string>
     <string name="url_scan_again">Kiểm tra lại</string>
     <string name="url_scanning">Đang kiểm tra URL…</string>
+    <string name="user_agreement">Thỏa thuận Người dùng</string>
     <string name="verification_code_list_title">Mã xác minh</string>
     <string name="view">Xem</string>
     <string name="view_bookmark">Xem tin nhắn gốc</string>
@@ -674,6 +705,4 @@
     <string name="wild_msg_title">Chọn số điện thoại để đồng bộ</string>
     <string name="yes">OK</string>
     <string name="yesterday">Hôm qua</string>
-    <string name="notification_channel_description">Thông báo từ Tin nhắn</string>
-    <string name="notification_channel_name">Tin nhắn</string>
 </resources>

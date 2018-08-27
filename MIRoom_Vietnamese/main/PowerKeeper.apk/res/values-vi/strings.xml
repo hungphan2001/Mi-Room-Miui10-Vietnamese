@@ -4,7 +4,8 @@
     <string name="error_filename_too_long">Tên tập tin bạn nhập quá dài.</string>
     <string name="power_config_select_apps_title">Ứng dụng</string>
     <string name="power_config_event_delete">Xóa</string>
-    <string name="hide_mode_desc">Khi ứng dụng chạy trong nền, hoạt động của chúng có thể được kiểm soát để giảm việc sử dụng Pin.</string>
+    <string name="hide_mode_desc"><font color="#000000">Khi một ứng dụng chạy ẩn, hoạt động của ứng dụng sẽ được giám sát để giảm mức sử dụng pin. Tính năng sẽ nhận và sử dụng dữ liệu người dùng theo %s</font></string>
+    <string name="privacy">Chính sách riêng tư</string>
     <string name="power_hide_mode_title">Pin &amp; hiệu suất</string>
     <string name="power_config_apps">Tiết kiệm Pin</string>
     <string name="app_list_title">Chọn ứng dụng</string>
@@ -12,6 +13,7 @@
     <string name="about_hide_mode">Giới thiệu Tiết kiệm pin</string>
     <string name="show_system_app">Hiển thị ứng dụng hệ thống</string>
     <string name="hide_system_app">Ẩn ứng dụng hệ thống</string>
+    <string name="about_extreme_mode">Siêu tiết kiệm pin</string>
     <string name="scenario_policies_title">Bối cảnh thông minh</string>
     <string name="config_scenario_policies_title">Bối cảnh</string>
     <string name="scenario_policies_summary">Sử dụng phương pháp tiết kiệm pin khác nhau cho bối cảnh khác nhau.</string>
@@ -86,4 +88,9 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
     <string name="sleepmode_privacy_link">Tìm hiểu thêm về riêng tư và bảo mật</string>
     <string name="sleepmode_disclaimer_cancel">Hủy</string>
     <string name="sleepmode_disclaimer_agree">Đồng ý</string>
+    <string name="appconfig_active_app_dialog_title">Quản lý ứng dụng hoạt động thường xuyên</string>
+    <string name="config_classify">Sắp xếp theo cài đặt ứng dụng</string>
+    <string name="active_classify">Sắp xếp theo trạng thái hoạt động</string>
+    <string name="extreme_mode_max_item_alert">Chỉ có thể chọn 4 ứng dụng để chạy trong nền ở chế độ Siêu tiết kiệm pin</string>
+    <string name="message_i_know">Tôi biết</string>
 </resources>

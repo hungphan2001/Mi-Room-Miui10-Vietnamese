@@ -73,12 +73,12 @@
         <item quantity="one">Chuyển vào thùng rác (%d)</item>
     </plurals>
     <plurals name="photos_archive_actions_archived_toast_text">
-        <item quantity="other">%d được lưu trữ</item>
-        <item quantity="one">%d mục được lưu trữ</item>
+        <item quantity="other">Đã lưu trữ %d mục</item>
+        <item quantity="one">Đã lưu trữ %d mục</item>
     </plurals>
     <plurals name="photos_archive_actions_unarchived_toast_text">
-        <item quantity="other">%d được hủy lưu trữ</item>
-        <item quantity="one">%d mục được hủy lưu trữ</item>
+        <item quantity="other">Đã hủy lưu trữ %d mục</item>
+        <item quantity="one">Đã hủy lưu trữ %d mục</item>
     </plurals>
     <plurals name="photos_archive_assistant_review_title">
         <item quantity="other">%d được chọn</item>
@@ -131,6 +131,10 @@
     <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
         <item quantity="other">%d video cần tải lên</item>
         <item quantity="one">%d video cần tải lên</item>
+    </plurals>
+    <plurals name="photos_backup_reenablebackup_photos_not_backed_up_title">
+        <item quantity="other">Chưa sao lưu %d ảnh</item>
+        <item quantity="one">Chưa sao lưu %d ảnh</item>
     </plurals>
     <plurals name="photos_burst_actionsheet_trash_all">
         <item quantity="other">Tất cả %d ảnh</item>
@@ -244,10 +248,6 @@
         <item quantity="other">Đã thêm %d mục</item>
         <item quantity="one">Đã thêm %d mục</item>
     </plurals>
-    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
-        <item quantity="other">Bạn chỉ có thể thêm %d mục khác.</item>
-        <item quantity="one">Bạn chỉ có thể thêm %d mục khác.</item>
-    </plurals>
     <plurals name="photos_localmedia_ui_delete_folder_on_device">
         <item quantity="other">Xóa thư mục và %d mục trong đó</item>
         <item quantity="one">Xóa thư mục và %d mục trong đó</item>
@@ -325,8 +325,8 @@
         <item quantity="one">Chỉ chọn %d người</item>
     </plurals>
     <plurals name="photos_photobook_buyflow_num_extra_pages">
-        <item quantity="other">%d trang phụ</item>
-        <item quantity="one">%d trang phụ</item>
+        <item quantity="other">%d trang bổ sung</item>
+        <item quantity="one">%d trang bổ sung</item>
     </plurals>
     <plurals name="photos_photobook_confirmation_page_count">
         <item quantity="other">%d trang</item>
@@ -384,9 +384,21 @@
         <item quantity="other">video</item>
         <item quantity="one">video</item>
     </plurals>
+    <plurals name="photos_restore_notification_content_download_in_progress">
+        <item quantity="other">Đã tải xuống %1$d/%2$d mục</item>
+        <item quantity="one">Đã tải xuống %1$d/%2$d mục</item>
+    </plurals>
+    <plurals name="photos_restore_notification_dialog_title_bypass_wifi">
+        <item quantity="other">Khôi phục %d mục?</item>
+        <item quantity="one">Khôi phục %d mục?</item>
+    </plurals>
     <plurals name="photos_restore_notification_max_photo_count_restored">
         <item quantity="other">Đã khôi phục %1$d mục gần đây vào thiết bị</item>
         <item quantity="one">Đã khôi phục 1 mục gần đây vào thiết bị</item>
+    </plurals>
+    <plurals name="photos_restore_notification_title_low_restore_count">
+        <item quantity="other">Đã khôi phục %1$d ảnh &amp; video</item>
+        <item quantity="one">Đã khôi phục 1 ảnh hoặc video</item>
     </plurals>
     <plurals name="photos_search_explore_pets_impl_notification_title">
         <item quantity="other">Đã tìm thấy %d thú cưng</item>
@@ -455,10 +467,6 @@
     <plurals name="photos_selected_description">
         <item quantity="other">Đã chọn %1$d ảnh</item>
         <item quantity="one">Đã chọn %1$d ảnh</item>
-    </plurals>
-    <plurals name="photos_selection_cabmode_title_n_selected">
-        <item quantity="other">Đã chọn %d</item>
-        <item quantity="one">Đã chọn %d</item>
     </plurals>
     <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
         <item quantity="other">Đã thêm %d mục vào album</item>

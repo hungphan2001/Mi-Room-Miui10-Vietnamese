@@ -176,11 +176,17 @@
     <string name="timer_alert_type_rain">Tiếng mưa</string>
     <string name="timer_alert_type_stove_fire">Bếp lữa</string>
     <string name="timer_alert_type_summer_night">Đêm hè</string>
+    <string name="timer_can_continue_in_timer">Mở hẹn giờ để trở lại</string>
+    <string name="timer_cancel_hint">Dừng</string>
     <string name="timer_cancel_timer">Hủy hẹn giờ</string>
     <string name="timer_clock_alert_text">Đặt hẹn giờ</string>
     <string name="timer_continue">Tiếp tục</string>
     <string name="timer_continue_timer">Tiếp tục hẹn giờ</string>
+    <string name="timer_end_time">Hẹn giờ sẽ dừng vào %s</string>
+    <string name="timer_end_time_format">HH:mm dd MMM</string>
+    <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
+    <string name="timer_is_paused">Hẹn giờ đã tạm dừng</string>
     <string name="timer_item_duration_display">%1$d phút %2$d giây</string>
     <string name="timer_item_label_hint">Nhãn hẹn giờ</string>
     <string name="timer_item_picker_hour">Giờ</string>
@@ -214,6 +220,4 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">Giờ</string>
     <string name="worldcolock_timezone_local">Như giờ địa phương</string>
-    <string name="timer_pause_hint">Tạm dừng</string>
-    <string name="timer_running_hint">Tiếp tục</string>
 </resources>

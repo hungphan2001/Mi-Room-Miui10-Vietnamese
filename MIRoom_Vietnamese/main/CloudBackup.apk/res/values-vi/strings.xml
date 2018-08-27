@@ -164,11 +164,11 @@
     <string name="done_remove">Xóa thành công</string>
     <string name="doing_restore_home">Đang khôi phục Màn hình chính và cài đặt…</string>
     <string name="title_alert_cancel_restore">Dừng khôi phục</string>
-    <string name="msg_alert_cancel_restore">Sao lưu đám mây đang được khôi phục, dừng ngay?</string>
+    <string name="msg_alert_cancel_restore">Đang khôi phục. Dừng ngay?</string>
     <string name="btn_restore_cancel">Hủy</string>
     <string name="btn_restore_resume">Tiếp tục</string>
-    <string name="title_alert_restore_error">Khôi phục thất bại</string>
-    <string name="msg_alert_restore_error">Khôi phục sao lưu đám mây đã thất bại, vui lòng thử lại.</string>
+    <string name="title_alert_restore_error">Không thể khôi phục</string>
+    <string name="msg_alert_restore_error">Không thể khôi phục các mục từ Mi Cloud. Hãy thử lại.</string>
     <string name="btn_restore_retry">Thử lại</string>
     <string name="btn_restore_abort">Hủy</string>
 </resources>
