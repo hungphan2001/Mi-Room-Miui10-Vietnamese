@@ -27,7 +27,7 @@
     <string name="default_managed_profile_name">Hồ sơ công việc</string>
     <string name="default_first_meat_user_name">Người dùng chính</string>
     <string name="delete_profile_title">Xóa hồ sơ hiện có?</string>
-    <string name="opening_paragraph_delete_profile">Bạn đã có hồ sơ công việc. Hồ sơ này do ứng dụng sau quản lý:</string>
+    <string name="opening_paragraph_delete_profile">Bạn đã có hồ sơ công việc do ứng dụng sau quản lý:</string>
     <string name="read_more_delete_profile">Trước khi tiếp tục, <a href="#read_this_link">hãy đọc thông tin sau</a>.</string>
     <string name="sure_you_want_to_delete_profile">Nếu bạn tiếp tục, tất cả ứng dụng và dữ liệu trong hồ sơ này sẽ bị xóa.</string>
     <string name="delete_profile">Xóa</string>
@@ -40,15 +40,17 @@
     <string name="continue_provisioning_notify_text">Nhấn để tiếp tục thiết lập hồ sơ công việc của bạn</string>
     <string name="managed_provisioning_error_text">Không thiết lập được hồ sơ công việc của bạn. Hãy liên hệ với bộ phận CNTT hoặc thử lại sau.</string>
     <string name="cant_add_work_profile">Không thể thêm hồ sơ công việc</string>
-    <string name="cant_replace_or_remove_work_profile">Không thể thay thế hoặc xóa hồ sơ công việc</string>
-    <string name="work_profile_cant_be_added_contact_admin">Không thể thêm hồ sơ công việc vào thiết bị này. Nếu bạn có câu hỏi, hãy liên hệ với quản trị viên của bạn.</string>
+    <string name="user_cant_have_work_profile_contact_admin">Người dùng này không thể có hồ sơ công việc. Để được trợ giúp, hãy liên hệ với quản trị viên của bạn.</string>
+    <string name="user_cannot_have_work_profiles_contact_admin">Người dùng này không thể có hồ sơ công việc. Hãy liên hệ với quản trị viên của bạn.</string>
+    <string name="device_owner_exists">Không thể thiết lập hồ sơ công việc trên thiết bị được quản lý</string>
+    <string name="too_many_users_on_device_remove_user_try_again">Có thể có quá nhiều người dùng trên thiết bị này. Hãy xóa bớt một người dùng, rồi thử lại.</string>
     <string name="change_device_launcher">Thay đổi trình khởi chạy thiết bị</string>
     <string name="launcher_app_cant_be_used_by_work_profile">Hồ sơ công việc của bạn không được sử dụng ứng dụng khởi chạy này</string>
     <string name="cancel_provisioning">Hủy</string>
     <string name="pick_launcher">Ok</string>
     <string name="user_setup_incomplete">Thiết lập người dùng chưa hoàn tất</string>
     <string name="default_owned_device_username">Người dùng thiết bị cơ quan</string>
-    <string name="setup_work_device">Đang thiết lập thiết bị cơ quan…</string>
+    <string name="setup_work_device">Thiết lập thiết bị cơ quan</string>
     <string name="progress_data_process">Đang xử lý dữ liệu thiết lập...</string>
     <string name="progress_connect_to_wifi">Đang kết nối Wi-Fi…</string>
     <string name="progress_download">Đang tải xuống ứng dụng quản trị...</string>

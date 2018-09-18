@@ -38,7 +38,7 @@
     <string name="accessibility_hd">Chuyển sang độ phân giải cao</string>
     <string name="accessibility_hq">Chuyển sang chất lượng cao</string>
     <string name="accessibility_lq">Chuyển sang chất lượng thấp</string>
-    <string name="accessibility_movie_duration">thời lượng: %1$s phút</string>
+    <string name="accessibility_movie_duration">thời lượng: %1$d phút</string>
     <string name="accessibility_movie_duration_seconds">thời lượng: %1$s giây</string>
     <string name="accessibility_movie_rating">xếp hạng nội dung: %1$s</string>
     <string name="accessibility_movie_year">Năm phát hành: %1$s</string>
@@ -178,6 +178,7 @@
     <string name="content_description_button_thumb_up_unselected">Chưa chọn Thích</string>
     <string name="content_description_close_profile">Đóng hồ sơ</string>
     <string name="content_description_closed_captions">Phụ đề</string>
+    <string name="content_description_direct_play">Phát trực tiếp %1$s</string>
     <string name="content_description_family_library_badge">Thư viện gia đình</string>
     <string name="content_description_feedback_button">Phản hồi</string>
     <string name="content_description_hd">HD</string>
@@ -204,6 +205,7 @@
     <string name="details_4k">4K</string>
     <string name="details_audio_languages">{number,plural, =1{Ngôn ngữ âm thanh}other{Ngôn ngữ âm thanh}}</string>
     <string name="details_available">Có sẵn</string>
+    <string name="details_bundle">Gói</string>
     <string name="details_distributor_tooltip">Chọn nơi sẽ xem</string>
     <string name="details_hdr">HDR</string>
     <string name="details_hide_episodes">Ẩn</string>
@@ -382,6 +384,15 @@
     <string name="family_library_paused_message_for_member">Phương thức thanh toán cho gia đình của bạn không hợp lệ. Bạn không thể thêm giao dịch mua mới vào Thư viện gia đình cho đến khi người quản lý gia đình khắc phục vấn đề.</string>
     <string name="family_library_some_content_not_eligible">Một số nội dung không đủ điều kiện để được thêm vào Thư viện gia đình.</string>
     <string name="feedback_button">Phản hồi</string>
+    <string name="filter_downloaded">Đã tải xuống</string>
+    <string name="filter_family_sharing">Thư viện gia đình</string>
+    <string name="filter_hd">HD</string>
+    <string name="filter_movies_anywhere">Xem phim ở mọi nơi</string>
+    <string name="filter_not_sharing">Không được chia sẻ</string>
+    <string name="filter_rented">Đã thuê</string>
+    <string name="filter_sd">SD</string>
+    <string name="filter_uhd">UHD</string>
+    <string name="filter_unwatched">Chưa xem</string>
     <string name="free">Miễn phí</string>
     <string name="full_stop_character">.</string>
     <string name="generic_episodes">{number,plural, =1{1 tập}other{# tập}}</string>
@@ -448,9 +459,9 @@ Xem các bộ phim yêu thích tức thì trên điện thoại hoặc máy tín
     <string name="menu_download">Tải xuống</string>
     <string name="menu_feedback">Gửi phản hồi</string>
     <string name="menu_full_store">Cửa hàng đầy đủ</string>
-    <string name="menu_grid">Lưới</string>
+    <string name="menu_grid">Chế độ xem lưới</string>
     <string name="menu_help_and_feedback">Trợ giúp và phản hồi</string>
-    <string name="menu_list">Danh sách</string>
+    <string name="menu_list">Chế độ xem danh sách</string>
     <string name="menu_manage_services">Quản lý dịch vụ</string>
     <string name="menu_more">Thêm</string>
     <string name="menu_pin_screen">Khóa màn hình</string>
@@ -463,7 +474,7 @@ Xem các bộ phim yêu thích tức thì trên điện thoại hoặc máy tín
     <string name="menu_share_asset">Thêm vào Thư viện gia đình</string>
     <string name="menu_sharing_asset">Thêm vào Thư viện gia đình...</string>
     <string name="menu_shop">Mua sắm</string>
-    <string name="menu_sort">Sắp xếp</string>
+    <string name="menu_sort">Sắp xếp theo</string>
     <string name="menu_unshare_asset">Xóa khỏi Thư viện gia đình</string>
     <string name="menu_unsharing_asset">Xóa khỏi Thư viện gia đình…</string>
     <string name="menu_zoom_in">Phóng to</string>
@@ -472,7 +483,7 @@ Xem các bộ phim yêu thích tức thì trên điện thoại hoặc máy tín
     <string name="more_like_this">Nhiều đề xuất tương tự hơn</string>
     <string name="more_like_this_acknowledged">Chúng tôi sẽ hiển thị cho bạn nhiều đề xuất tương tự hơn</string>
     <string name="more_results_no_count">thêm</string>
-    <string name="movie_duration">%1$s phút</string>
+    <string name="movie_duration">%1$d phút</string>
     <string name="movie_duration_seconds">%1$s giây</string>
     <string name="movie_extras">Nội dung khác</string>
     <string name="mr_button_content_description">Nút truyền</string>
@@ -592,6 +603,7 @@ Xem các bộ phim yêu thích tức thì trên điện thoại hoặc máy tín
     <string name="play_drawer_open">Hiển thị ngăn điều hướng</string>
     <string name="play_drawer_title">Điều hướng</string>
     <string name="play_episode_content_description">Phát tập %1$s</string>
+    <string name="play_first_movie_in_bundle">Phát phim đầu tiên</string>
     <string name="play_movies_tv_default_channel_description">Phim nổi bật của %1$s</string>
     <string name="play_movies_tv_default_channel_title">Nổi bật</string>
     <string name="play_movies_tv_topselling_movies_channel_description">Phim bán chạy nhất của %1$s</string>
@@ -805,8 +817,8 @@ Xem các bộ phim yêu thích tức thì trên điện thoại hoặc máy tín
     <string name="show_sharing_remove_all_button_label">Xóa tất cả</string>
     <string name="show_sharing_title">Thêm các tập mà bạn sở hữu?</string>
     <string name="snackbar_dismissal">Bỏ qua</string>
-    <string name="sort_by_date_added">Ngày thêm</string>
-    <string name="sort_by_release_year">Năm phát hành</string>
+    <string name="sort_by_date_added">Date added</string>
+    <string name="sort_by_release_year">Year released</string>
     <string name="sort_by_title">Tiêu đề</string>
     <string name="sort_movies_by">Sắp xếp phim theo</string>
     <string name="sort_shows_by">Sắp xếp chương trình theo</string>
@@ -868,10 +880,14 @@ Xem các bộ phim yêu thích tức thì trên điện thoại hoặc máy tín
     <string name="updating_program_guide_dialog_message">Đang cập nhật hướng dẫn chương trình…</string>
     <string name="used_storage_movies">Video</string>
     <string name="used_storage_other">Khác</string>
+    <string name="user_feedback_add_wishlist">Thêm vào danh sách xem của bạn</string>
     <string name="user_feedback_add_wishlist_toast">Đã thêm vào danh sách xem của bạn</string>
     <string name="user_feedback_option_not_available_toast">Không sử dụng được tùy chọn cho tiêu đề này</string>
+    <string name="user_feedback_remove_wishlist">Xóa khỏi danh sách xem của bạn</string>
     <string name="user_feedback_remove_wishlist_toast">Đã xóa khỏi danh sách xem của bạn</string>
+    <string name="user_feedback_thumbdown">Ẩn bớt phim/chương trình tương tự.</string>
     <string name="user_feedback_thumbdown_toast">Chúng tôi sẽ không hiển thị lại nội dung này trên Màn hình chính</string>
+    <string name="user_feedback_thumbup">Hiển thị thêm phim/chương trình tương tự.</string>
     <string name="user_feedback_thumbup_toast">Chúng tôi sẽ hiển thị cho bạn thêm nội dung tương tự</string>
     <string name="video_not_available_in_your_country">Chưa có tại quốc gia của bạn</string>
     <string name="video_not_found">Không tìm thấy video</string>

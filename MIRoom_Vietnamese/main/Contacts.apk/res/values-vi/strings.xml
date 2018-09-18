@@ -403,7 +403,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="dialer_useDtmfDialpad">Sử dụng âm bàn phím</string>
     <string name="dialog_import">Nhập liên hệ</string>
     <string name="dialog_import_export">Nhập/Xuất liên hệ</string>
-    <string name="dialog_new_contact_account">Tạo liên hệ theo tài khoản</string>
+    <string name="dialog_new_contact_account">Tạo liên hệ trong tài khoản</string>
     <string name="dialog_new_group_account">Tạo nhóm theo tài khoản</string>
     <string name="dialog_phone_call_prohibited_message">Không thể gọi</string>
     <string name="dialog_sync_add">Thêm nhóm đồng bộ</string>

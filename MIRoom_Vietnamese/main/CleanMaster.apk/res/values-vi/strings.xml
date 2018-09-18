@@ -567,4 +567,6 @@
     <string name="memory_clean_icon_text">Xóa bộ nhớ</string>
     <string name="pref_title_create_onekeyclean_shortcut">Hiển thị lối tắt Màn hình chính</string>
     <string name="memory_clean_no_trash_tip">Mọi thứ đều tốt</string>
+    <string name="toast_updater_open_4g_text">Ứng dụng sẽ cập nhật bằng dữ liệu di động (4G)</string>
+    <string name="toast_updater_close_4g_text">Ứng dụng sẽ không cập nhật bằng dữ liệu di động (4G)</string>
 </resources>

@@ -17,38 +17,6 @@
         <item>Nhiều nhất 3 tiến trình</item>
         <item>Nhiều nhất 4 tiến trình</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="battery_options">
         <item>Luôn hiển thị phần trăm</item>
         <item>Hiển thị phần trăm khi sạc (mặc định)</item>
@@ -122,27 +90,10 @@
         <item>Bật Codec Tùy chọn</item>
         <item>Tắt Codec Tùy chọn</item>
     </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
-    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Mặc định)</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
-    </string-array>
-    <string-array name="carrier_name">
-        <item>China Mobile</item>
-        <item>China Unicom</item>
-        <item>China Telecom</item>
-        <item>SmarToneVodafone</item>
-    </string-array>
-    <string-array name="carrier_simple_name">
-        <item>CM</item>
-        <item>CU</item>
-        <item>CT</item>
-        <item>SMC HK</item>
     </string-array>
     <string-array name="clock_options">
         <item>Hiển thị giờ, phút và giây</item>
@@ -184,13 +135,6 @@
         <item>Chỉ kiểm tra nội dung DRM</item>
         <item>Luôn kiểm tra</item>
     </string-array>
-    <string-array name="miui_volume_timer_segments_title">
-        <item>Tắt</item>
-        <item>30 phút</item>
-        <item>1 giờ</item>
-        <item>2 giờ</item>
-        <item>8 giờ</item>
-    </string-array>
     <string-array name="nav_bar_buttons">
         <item>Bộ nhớ đệm</item>
         <item>Mã phím</item>
@@ -217,7 +161,6 @@
         <item>4K (nâng cao chất lượng hình ảnh, an toàn)</item>
         <item>720p, 1080p (màn hình kép)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>Tắt</item>
         <item>64K</item>
@@ -281,17 +224,6 @@
         <item>Cực nhanh</item>
         <item>Siêu nhanh</item>
         <item>Nhanh nhất</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Sạc pin</item>

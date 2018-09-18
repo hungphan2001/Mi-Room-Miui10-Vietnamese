@@ -261,6 +261,9 @@
     <string name="cloudfolder_name_reserved">Tên album được bảo lưu</string>
     <string name="collage__talkback_effect">%d hiệu ứng</string>
     <string name="collage_choose">Chọn</string>
+    <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+    <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+    <string name="collage_drawable_rect_date_year">yyyy</string>
     <string name="collage_margin_text">Khung</string>
     <string name="collage_mirror">Gương</string>
     <string name="collage_poster_global_cat_text">VUỐT</string>
@@ -871,6 +874,10 @@ khả dụng"</string>
     <string name="play_gif_desc">Phát GIF</string>
     <string name="play_video_desc">Phát video</string>
     <string name="preparing_data">Vui lòng chờ…</string>
+    <string name="privacy_permission_request_message">Thư viện cần truy cập vào %3$s. Thông tin chúng tôi thu thập sẽ được sử dụng theo %1$s và %2$s của chúng tôi. Cho phép?</string>
+    <string name="privacy_permission_request_negative">Hạn chế</string>
+    <string name="privacy_permission_request_positive">Cho phép</string>
+    <string name="privacy_permission_request_title">Yêu cầu quyền</string>
     <string name="projection_cancel">Hủy</string>
     <string name="projection_checkbox_text">Nhớ hiển thị này</string>
     <string name="projection_device_connection_failed">Không thể kết nối với máy chiếu</string>
@@ -1177,10 +1184,15 @@ khả dụng"</string>
     <string name="video_editor_auto_trim">Cắt tự động</string>
     <string name="video_editor_auto_trim_tip">Đang cắt tự động…</string>
     <string name="video_editor_cancel">Hủy</string>
+    <string name="video_editor_cancel_download">Hủy</string>
     <string name="video_editor_done">Hoàn tất</string>
     <string name="video_editor_down_load_later">Để sau</string>
     <string name="video_editor_down_load_no_wifi_tips">Kết nối Wi-Fi để tải xuống</string>
     <string name="video_editor_down_load_now">Tải xuống</string>
+    <string name="video_editor_download">Tải xuống</string>
+    <string name="video_editor_download_failed_for_notwork">Không thể tải xuống. Kết nối mạng và thử lại.</string>
+    <string name="video_editor_download_without_wifi_msg">Sử dụng kết nối dữ liệu di động để tải xuống tập tin sẽ làm tăng sử dụng dữ liệu. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
+    <string name="video_editor_download_without_wifi_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="video_editor_encode_video">Đang mã hóa video…</string>
     <string name="video_editor_encode_video_error">Không thể mã hóa video</string>
     <string name="video_editor_fatal_error">Lỗi không xác định</string>
@@ -1219,6 +1231,8 @@ khả dụng"</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Tải xuống nhạc phim (soundtrack) bằng dữ liệu di động?</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Sử dụng dữ liệu di động</string>
     <string name="video_editor_res_not_load_dialog_msg">Tải xuống nhạc phim (soundtrack) để sử dụng tính năng này (lớn hơn 20MB).</string>
+    <string name="video_editor_return">Quay lại</string>
+    <string name="video_editor_save">Lưu</string>
     <string name="video_editor_smart_effect_beat">Tiết tấu</string>
     <string name="video_editor_smart_effect_big_film">Hùng ca</string>
     <string name="video_editor_smart_effect_cadence">Nhịp điệu</string>
@@ -1284,4 +1298,8 @@ khả dụng"</string>
     <string name="refocus_title">Nhòe</string>
     <string name="refocus_type_static">Mức độ nhòe</string>
     <string name="refocus_type_video">Vệt sáng</string>
+    <string name="added_to_favorites_desc">Đã thêm vào yêu thích</string>
+    <string name="more">Thêm</string>
+    <string name="operation_favorites">Yêu thích</string>
+    <string name="removed_from_favorites_desc">Đã xóa khỏi yêu thích</string>
 </resources>

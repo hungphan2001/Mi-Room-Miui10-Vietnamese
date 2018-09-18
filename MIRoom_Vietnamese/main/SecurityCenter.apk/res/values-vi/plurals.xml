@@ -89,6 +89,12 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="quick_optimize_suggest_issue_found">
         <item quantity="other">Đã tìm thấy %d vấn đề pin, sửa ngay</item>
     </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">mục</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Thêm %d phút</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Được tải xuống bởi %1$d người</item>
     </plurals>
@@ -264,6 +270,6 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
         <item quantity="other">%d ứng dụng đã được ẩn</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
-        <item quantity="other">Vấn đề %1$d yêu cầu tối ưu hóa</item>
+        <item quantity="other">%1$d vấn đề yêu cầu tối ưu</item>
     </plurals>
 </resources>

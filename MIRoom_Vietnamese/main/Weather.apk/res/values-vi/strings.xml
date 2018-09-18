@@ -38,7 +38,9 @@
     <string name="aqi_quality_ambient_air_quality">Chất lượng không khí lân cận</string>
     <string name="aqi_quality_co_desc">Carbon monoxide</string>
     <string name="aqi_quality_detail_15_days">Dự báo 15 ngày</string>
+    <string name="aqi_quality_detail_24_hours">Dự báo 24h</string>
     <string name="aqi_quality_detail_48_hours">Dự báo 48 giờ</string>
+    <string name="aqi_quality_detail_5_days">Dự báo 5 ngày</string>
     <string name="aqi_quality_major_pollutants">Chất ô nhiễm chính</string>
     <string name="aqi_quality_map_title">Biểu đồ chất lượng không khí</string>
     <string name="aqi_quality_no2_desc">Nitơ điôxít</string>
@@ -62,7 +64,7 @@
     <string name="button_sure_abandon">Hủy thay đổi?</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Kiểm tra kết nối mạng và thử lại</string>
-    <string name="china_version_first_start_network_msg">Bằng cách sử dụng sản phẩm này, bạn đồng ý với %1$s và %2$s của Xiaomi. Ứng dụng này cần kết nối internet và truy cập vị trí của bạn để làm việc bình thường.</string>
+    <string name="china_version_first_start_network_msg">Bằng cách sử dụng sản phẩm này, bạn đồng ý với %1$s và %2$s. Để hỗ trợ nhận được thông tin thời tiết chính xác, ứng dụng cần kết nối mạng để truy cập thông tin vị trí. Bạn có muốn cho phép?</string>
     <string name="city_exceeded_warning">Bạn có thể thêm đến 10 thành phố</string>
     <string name="common_loading_text">Vui lòng chờ…</string>
     <string name="connect_fail">Không thể kết nối mạng, hãy thử lại</string>
@@ -87,7 +89,7 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="data_provided_by">Dữ liệu được cung cấp bởi</string>
     <string name="edit_city">Quản lý thành phố</string>
     <string name="empty">" "</string>
-    <string name="eu_region_version_first_start_network_msg">Bằng cách sử dụng sản phẩm này, bạn đồng ý để Xiaomi thu thập, xử lý và sử dụng thông tin cá nhân của bạn, bao gồm tọa độ của các thành phố mà bạn tìm kiếm và các loại dữ liệu khác được quy định trong Chính sách Riêng tư. Tham khảo Chính sách Riêng tư của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý thông tin. Bằng cách chạm vào \"Đồng ý\", bạn đồng ý với %1$s và %2$s của Xiaomi.</string>
+    <string name="eu_region_version_first_start_network_msg">Bằng cách sử dụng sản phẩm này, bạn đồng ý để sản phẩm này sẽ kết nối mạng, thu thập, xử lý và sử dụng thông tin cá nhân của bạn, bao gồm tọa độ của các thành phố mà bạn tìm kiếm và các loại dữ liệu khác được quy định trong Chính sách Riêng tư. Tham khảo Chính sách Riêng tư của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý thông tin. Bằng cách chạm vào \"Đồng ý\", bạn đồng ý với %1$s và %2$s của Xiaomi.</string>
     <string name="feedback_heavy_rain">Mưa lớn</string>
     <string name="feedback_heavy_snow">Tuyết rơi</string>
     <string name="feedback_light_rain">Mưa nhỏ</string>
@@ -164,6 +166,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="privacy_grant_failed">Không thể cấp ủy quyền. Chờ một hoặc hai phút và thử lại.</string>
     <string name="privacy_grant_or_revoke_settings">Cấp &amp; hủy ủy quyền</string>
     <string name="privacy_grant_success">Cấp ủy quyền thành công</string>
+    <string name="privacy_policy">Chính sách Riêng tư</string>
     <string name="privacy_revoke_failed">Không thể hủy ủy quyền. Chờ một hoặc hai phút và thử lại.</string>
     <string name="privacy_revoke_success">Hủy ủy quyền thành công</string>
     <string name="privacy_settings">Chính sách Riêng tư</string>
@@ -227,6 +230,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="update_setting_title_text">Cập nhật thông tin thời tiết</string>
     <string name="updated_a_moment_ago">Vừa cập nhật</string>
     <string name="updating">Đang cập nhật…</string>
+    <string name="user_agreement">Điều khoản Dịch vụ</string>
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
     <string name="video_dialog_subtitle" />

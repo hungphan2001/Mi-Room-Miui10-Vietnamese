@@ -300,6 +300,7 @@
     <string name="user_avatar_uploading">Vui lòng chờ…</string>
     <string name="user_avatar_update_title">Thay đổi ảnh hồ sơ</string>
     <string name="photoPickerNotFoundText">Không có ảnh khả dụng.</string>
+    <string name="account_invalid_user_avatar">Ảnh không hợp lệ</string>
     <string name="account_none_binded_info">Không</string>
     <string name="account_bind_secure_phone_title">Thêm số điện thoại</string>
     <string name="account_bind_secure_email_title">Thêm email</string>

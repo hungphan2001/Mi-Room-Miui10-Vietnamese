@@ -12,9 +12,9 @@
     <string name="video_camera_label">Máy quay</string>
     <string name="wait">Vui lòng chờ…</string>
     <string name="no_storage">Lắp thẻ SD trước khi sử dụng máy ảnh</string>
-    <string name="not_enough_space">Thẻ SD đã đầy</string>
-    <string name="preparing_sd">Đang kiểm tra thẻ SD…</string>
-    <string name="access_sd_fail">Không thể truy cập thẻ SD.</string>
+    <string name="not_enough_space">Bộ nhớ trong đã đầy</string>
+    <string name="preparing_sd">Đang kiểm tra bộ nhớ trong…</string>
+    <string name="access_sd_fail">Không thể truy cập lưu trữ USB.</string>
     <string name="confirm_restore_title">Khôi phục cài đặt mặc định</string>
     <string name="confirm_restore_message">Khôi phục Máy ảnh về cài đặt mặc định?</string>
     <string name="confirm_location_title">Nhớ vị trí bức ảnh?</string>

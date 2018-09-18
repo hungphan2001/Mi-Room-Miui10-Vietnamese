@@ -11,7 +11,7 @@
     <string name="permdesc_downloadManagerAdvanced">Cho phép ứng dụng truy cập các tính năng nâng cao của Tải xuống. Các ứng dụng độc hại có thể sử dụng tính năng này để gián đoạn tải xuống và truy cập thông tin cá nhân.</string>
     <string name="permlab_downloadCompletedIntent">Gửi thông báo tải xuống.</string>
     <string name="permdesc_downloadCompletedIntent">Cho phép ứng dụng gửi thông báo tải xuống hoàn tất. Các ứng dụng độc hại có thể lợi dụng để ngụy trang thành ứng dụng tải xuống tập tin khác.</string>
-    <string name="permlab_seeAllExternal">Xem tất cả tải xuống lưu trữ trên thẻ SD</string>
+    <string name="permlab_seeAllExternal">Xem tất cả tải xuống lưu trữ trên lưu trữ USB</string>
     <string name="permdesc_seeAllExternal">Cho phép ứng dụng xem tất cả tải xuống trên thẻ SD, bất kể tải xuống từ bất kỳ ứng dụng nào.</string>
     <string name="permlab_downloadCacheNonPurgeable">Bảo lưu không gian trong bộ nhớ đệm tải xuống</string>
     <string name="permdesc_downloadCacheNonPurgeable">Cho phép ứng dụng tải tập tin vào bộ nhớ đệm tải xuống, nơi mà không thể tự động xóa khi quản lý tải xuống cần thêm không gian.</string>

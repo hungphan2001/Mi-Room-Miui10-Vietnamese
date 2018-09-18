@@ -202,6 +202,8 @@
     <string name="toast_message_add_image_fail">Không thể thêm ảnh</string>
     <string name="toast_notes_delete_success">Đã xóa thành công</string>
     <string name="toast_notes_hidden_count">Ẩn %1$s thành công</string>
+    <string name="toast_notes_hidden_edit">Ghi chú này đã được ẩn thành công. Kéo xuống để xem ghi chú ẩn.</string>
+    <string name="toast_notes_hidden_home">Ghi chú này đã được ẩn thành công. Kéo xuống để xem ghi chú ẩn.</string>
     <string name="toast_notes_unhidden">Bỏ ẩn thành công</string>
     <string name="toast_notes_unhidden_count">Bỏ ẩn %1$s thành công</string>
     <string name="toast_reach_text_limit_attachment">Không thể đính kèm tập tin mới bởi vì ghi chú quá dài</string>
@@ -224,5 +226,4 @@
     <string name="unknown_source">Nguồn không xác định</string>
     <string name="widget_content_loading">Vui lòng chờ…</string>
     <string name="widget_havenot_content">Chạm để tạo ghi chú. Bấm giữ tiện ích để thay đổi kích thước.</string>
-    <string name="toast_notes_hidden">Đã ẩn thành công</string>
 </resources>

@@ -87,7 +87,6 @@
     <string name="add_to_quicklink">Trang bắt đầu</string>
     <string name="added_to_bookmarks">Đã thêm vào dấu trang</string>
     <string name="adjust_text_zoom_toast">Thay đổi thu phóng văn bản có thể làm một số trang web hiển thị không chính xác</string>
-    <string name="adx_loading_str">Vui lòng chờ…</string>
     <string name="agree">Đồng ý</string>
     <string name="agree_permissions_request">Cho phép</string>
     <string name="alert_tips">Trang web này có thể tiềm ẩn về bảo mật</string>
@@ -103,7 +102,6 @@
     <string name="aqi_quality_index_moderate">Vừa</string>
     <string name="aqi_quality_index_pure">Tuyệt vời</string>
     <string name="aqi_quality_index_unhealthy">Không trong lành</string>
-    <string name="articles_updated">Đã cập nhật %1$d bài viết</string>
     <string name="autoSwithcingSearchEngineTips">Đã chuyển sang công cụ tìm kiếm thường dùng</string>
     <string name="autologin_bar_error">Không thể đăng nhập</string>
     <string name="autologin_bar_hide_text">Ẩn</string>
@@ -348,6 +346,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
     <string name="ignore_add_pwa_dialog_today">Không hiển thị lại hôm nay</string>
     <string name="in_incognito">Bạn đang ẩn danh! Các trang web bạn xem trong thẻ này sẽ không xuất hiện trong lịch sử trình duyệt của bạn.</string>
     <string name="in_secureaccess">Trình duyệt đã chuyển sang Chế độ an toàn</string>
+    <string name="into_info_flow_guide">Xem thêm bài viết</string>
     <string name="isReplacePage">Tập tin đã tồn tại, thay thế?</string>
     <string name="is_first_history_item">Đây là trang đầu tiên trong lịch sử Trình duyệt</string>
     <string name="is_first_tab">Đây là thẻ đầu tiên</string>
@@ -487,10 +486,10 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
     <string name="mw_http_post_warning_resend">Tiếp tục</string>
     <string name="mw_js_dialog_before_unload">"%s
 
-Bạn có chắc muốn thoát khỏi trang này?"</string>
+Rời khỏi trang này?"</string>
     <string name="mw_js_dialog_before_unload_negative_button">Ở lại trang này</string>
     <string name="mw_js_dialog_before_unload_positive_button">Rời khỏi trang này</string>
-    <string name="mw_js_dialog_before_unload_title">Xác nhận Điều hướng</string>
+    <string name="mw_js_dialog_before_unload_title">Xác nhận điều hướng</string>
     <string name="mw_js_dialog_title">Trang \"%s\" cho biết:</string>
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">Tháng trước</string>
@@ -501,8 +500,8 @@ Bạn có chắc muốn thoát khỏi trang này?"</string>
     <string name="mw_login_dialog_username_field">Tên người dùng</string>
     <string name="mw_low_memory_error">Không thể hoàn tất tác vụ trước đó do thiếu bộ nhớ</string>
     <string name="mw_media_player_error_button">OK</string>
-    <string name="mw_media_player_error_text_invalid_progressive_playback">Rất tiếc, video này không hợp lệ để phát trên thiết bị này.</string>
-    <string name="mw_media_player_error_text_unknown">Rất tiếc, không thể phát video này.</string>
+    <string name="mw_media_player_error_text_invalid_progressive_playback">Video này không hợp lệ để phát trên thiết bị này.</string>
+    <string name="mw_media_player_error_text_unknown">Không thể phát video này.</string>
     <string name="mw_media_player_error_title">Không thể phát video</string>
     <string name="mw_media_player_loading_video">Đang tải video</string>
     <string name="mw_miui_content_copy">Sao chép</string>
@@ -607,13 +606,13 @@ Bạn có chắc muốn thoát khỏi trang này?"</string>
         &lt;/ul>"</string>
     <string name="mw_no_matches">Không khớp</string>
     <string name="mw_notification_category_browser">Trình duyệt</string>
-    <string name="mw_notification_category_content_suggestions">Kiến nghị Nội dung</string>
+    <string name="mw_notification_category_content_suggestions">Kiến nghị nội dung</string>
     <string name="mw_notification_category_downloads">Tải xuống</string>
     <string name="mw_notification_category_fullscreen_controls">Điều khiển web toàn màn hình</string>
     <string name="mw_notification_category_group_general">Chung</string>
     <string name="mw_notification_category_incognito">Ẩn danh</string>
     <string name="mw_notification_category_media">Phương tiện</string>
-    <string name="mw_notification_category_screen_capture">Chụp ảnh Màn hình</string>
+    <string name="mw_notification_category_screen_capture">Chụp ảnh màn hình</string>
     <string name="mw_notification_category_sites">Web</string>
     <string name="mw_notification_hidden_text">Nội dung đã ẩn</string>
     <string name="mw_ntp_title_no_suggestions">Đây hiện là cuối cùng</string>
@@ -667,7 +666,7 @@ Bạn có chắc muốn thoát khỏi trang này?"</string>
     <string name="mw_payments_edit_contact_details_label">Sửa thông tin liên hệ</string>
     <string name="mw_payments_email_invalid_validation_message">Nhập địa chỉ email hợp lệ</string>
     <string name="mw_payments_email_required">Yêu cầu Email</string>
-    <string name="mw_payments_error_message">Xảy ra lỗi khi đang xử lý đơn hàng. Vui lòng thử lại.</string>
+    <string name="mw_payments_error_message">Xảy ra lỗi khi đang xử lý đơn hàng. Hãy thử lại.</string>
     <string name="mw_payments_field_required_validation_message">Mục bắt buộc</string>
     <string name="mw_payments_invalid_address">Nhập địa chỉ hợp lệ</string>
     <string name="mw_payments_loading_message">Đang tải</string>
@@ -701,13 +700,13 @@ Bạn có chắc muốn thoát khỏi trang này?"</string>
     <string name="mw_payments_unsupported_shipping_address">Không thể gửi đến địa chỉ này. Vui lòng chọn địa chỉ khác.</string>
     <string name="mw_payments_unsupported_shipping_option">Phương pháp gửi này không khả dụng. Thử phương pháp khác.</string>
     <string name="mw_payments_updated_label">Đã cạp nhật</string>
-    <string name="mw_permission_alert_window">Để sử dụng tính năng, vui lòng mở tùy chọn hệ thống Hiển thị cửa sổ nổi.</string>
+    <string name="mw_permission_alert_window">Để sử dụng tính năng này, mở tùy chọn hệ thống Hiển thị cửa sổ nổi.</string>
     <string name="mw_permission_unknown">Tùy chọn không xác định</string>
     <string name="mw_photo_picker_browse">Trình duyệt</string>
     <string name="mw_photo_picker_camera">Máy ảnh</string>
     <string name="mw_photo_picker_select_images">Chọn ảnh</string>
     <string name="mw_private_browsing_warning">Tính năng không được hỗ trợ trong phiên bản Android này.</string>
-    <string name="mw_profiler_error_toast">Bắt đầu phân tích thất bại</string>
+    <string name="mw_profiler_error_toast">Không thể bắt đầu phân tích</string>
     <string name="mw_profiler_no_storage_toast">Chưa thể bắt đầu phân tích bởi vì thẻ nhớ ngoài không sẵn sàng</string>
     <string name="mw_profiler_started_toast">Đã bắt đầu phân tích</string>
     <string name="mw_profiler_stopped_toast">Phân tích đã kết thúc. Kết quả trong %1$s.</string>
@@ -725,7 +724,7 @@ Bạn có chắc muốn thoát khỏi trang này?"</string>
     <string name="mw_sad_tab_send_feedback_label">Gửi Phản hồi</string>
     <string name="mw_sad_tab_title">Ah, Rất tiếc!</string>
     <string name="mw_sad_tab_uma_optin">Gửi số liệu thống kê sử dụng và báo cáo sự cố cho Google tự động</string>
-    <string name="mw_save_password_message">Bạn có muốn trình duyệt ghi nhớ mật khẩu này?</string>
+    <string name="mw_save_password_message">Nhớ mật khẩu này?</string>
     <string name="mw_save_password_never">Không bao giờ</string>
     <string name="mw_save_password_notnow">Lần tới</string>
     <string name="mw_save_password_remember">Nhớ</string>
@@ -743,7 +742,7 @@ Bạn có chắc muốn thoát khỏi trang này?"</string>
     <string name="mw_video_float_window_playing">Đang phát video</string>
     <string name="mw_video_play_error">Không thể phát video</string>
     <string name="mw_webview_find_on_page">Tìm trên trang</string>
-    <string name="mw_webviewchromium_private_browsing_warning">Tính năng này không được hỗ trợ trong phiên bản Android này.</string>
+    <string name="mw_webviewchromium_private_browsing_warning">Tính năng không được hỗ trợ trên phiên bản Android này.</string>
     <string name="mw_week_picker_dialog_title">Đặt tuần</string>
     <string name="my_cahnnel">Kênh của tôi</string>
     <string name="nav_bottom_bar_back">Quay lại</string>
@@ -751,9 +750,8 @@ Bạn có chắc muốn thoát khỏi trang này?"</string>
     <string name="nav_bottom_bar_new_tab">Thẻ mới</string>
     <string name="nav_screen_container_tab_incognito">Thẻ ẩn danh</string>
     <string name="nav_screen_container_tab_normal">Thẻ thông thường</string>
-    <string name="nav_screen_incognito_message">"Lịch sử trình duyệt và tìm kiếm sẽ không được lưu trong Chế độ ẩn danh.
-Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm sẽ được lưu lại."</string>
-    <string name="nav_screen_incognito_title">Chế độ ẩn danh</string>
+    <string name="nav_screen_incognito_message">Lịch sử trình duyệt và tìm kiếm sẽ không được lưu trong chế độ ẩn danh. Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm sẽ được lưu lại.</string>
+    <string name="nav_screen_incognito_title"> Chế độ ẩn danh</string>
     <string name="navigation_delete_all">Trượt sang trái hoặc phải để đóng tất cả các thẻ</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Hủy</string>
     <string name="navigationbar_rightbutton_actiontext_go">Vào</string>
@@ -806,11 +804,12 @@ Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm s
     <string name="pref_accessibility_url_shortcut_enter_summary">Các ký tự kết hợp phổ biến có thể được nhập bằng một thao tác chạm ở thanh địa chỉ</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Nhập URL nhanh</string>
     <string name="pref_adblock_title">Chặn quảng cáo</string>
+    <string name="pref_auto_update">Cập nhật tự động</string>
     <string name="pref_auto_update_under_wifi">Cập nhật bằng Wi-Fi</string>
     <string name="pref_automatic_matching_searchengines_title">Chuyển sang công cụ tìm kiếm thường dùng</string>
     <string name="pref_card_setting">Thứ tự trang web hàng đầu</string>
     <string name="pref_category_hint">Thể loại</string>
-    <string name="pref_check_recommendation_app_quicklink">Đã đề xuất cho bạn</string>
+    <string name="pref_check_recommendation_app_quicklink">Đề nghị cho bạn</string>
     <string name="pref_check_security_url_summary">Gửi URL trang web đến máy chủ Mi để kiểm tra bảo mật</string>
     <string name="pref_check_security_url_summary_international">Cho phép Trình duyệt truy cập URL của trang web mà bạn truy cập để nhận kiến nghị có liên quan.</string>
     <string name="pref_check_security_url_title">Kiểm tra bảo mật URL</string>
@@ -955,6 +954,7 @@ Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm s
     <string name="readmodelist_bookmarks_to_show">Danh sách đọc</string>
     <string name="refresh">Làm mới</string>
     <string name="refresh_fail">Không thể tải thông tin</string>
+    <string name="refresh_guide">Quay lại phía trên</string>
     <string name="refreshing">Đang làm mới…</string>
     <string name="refuse_permissions_request">Hạn chế</string>
     <string name="release_to_refresh">Thả để làm mới</string>
@@ -1117,6 +1117,7 @@ Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm s
     <string name="version_check_button_resume_download">Tiếp tục tải xuống</string>
     <string name="version_check_button_update">Cập nhật</string>
     <string name="version_check_failed">Không thể kiểm tra cập nhật</string>
+    <string name="version_dialog_4G_checkbox">Bạn có thể cập nhật ứng dụng hệ thống bằng dữ liệu di động. Điều này có thể phát sinh thêm phí.</string>
     <string name="version_dialog_buttion_ok">OK</string>
     <string name="version_dialog_buttion_update">Cập nhật</string>
     <string name="version_update_file_download_toast">Đang tải xuống</string>
@@ -1219,6 +1220,7 @@ Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm s
     <string name="date_picker_dialog_set">Đặt</string>
     <string name="date_picker_dialog_title">Đặt ngày</string>
     <string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+    <string name="external_app_restricted_access_error">Mi trình duyệt không có quyền truy cập vào nguồn tài nguyên được yêu cầu.</string>
     <string name="find_next">Trang sau</string>
     <string name="find_previous">Trang trước</string>
     <string name="js_dialog_before_unload">"%s

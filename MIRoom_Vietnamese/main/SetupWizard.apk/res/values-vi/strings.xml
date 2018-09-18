@@ -25,9 +25,6 @@
     <string name="wifi_disabled_by_recommendation_provider">Không được kết nối do mạng chất lượng kém</string>
     <string name="wifi_disabled_wifi_failure">Lỗi kết nối WiFi</string>
     <string name="wifi_disabled_password_failure">Sự cố xác thực</string>
-    <string name="wifi_cant_connect">Không thể kết nối</string>
-    <string name="wifi_cant_connect_to_ap">"Không thể kết nối với '%1$s'"</string>
-    <string name="wifi_check_password_try_again">Kiểm tra mật khẩu và thử lại</string>
     <string name="wifi_not_in_range">Ngoài vùng phủ sóng</string>
     <string name="wifi_no_internet_no_reconnect">Sẽ không tự động kết nối</string>
     <string name="wifi_no_internet">Không có quyền truy cập Internet</string>
@@ -37,16 +34,6 @@
     <string name="connected_via_passpoint">Được kết nối qua %1$s</string>
     <string name="available_via_passpoint">Có sẵn qua %1$s</string>
     <string name="wifi_connected_no_internet">Đã kết nối, không có Internet</string>
-    <string name="wifi_ap_unable_to_handle_new_sta">Điểm truy cập tạm thời đã đạt đến giới hạn số lượng thiết bị truy cập.</string>
-    <string name="connected_via_carrier">Được kết nối qua %1$s</string>
-    <string name="available_via_carrier">Có sẵn qua %1$s</string>
-    <string name="speed_label_very_slow">Rất chậm</string>
-    <string name="speed_label_slow">Chậm</string>
-    <string name="speed_label_okay">Khá tốt</string>
-    <string name="speed_label_medium">Trung bình</string>
-    <string name="speed_label_fast">Nhanh</string>
-    <string name="speed_label_very_fast">Rất nhanh</string>
-    <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="bluetooth_disconnected">Đã ngắt kết nối</string>
     <string name="bluetooth_disconnecting">Đang ngắt kết nối…</string>
     <string name="bluetooth_connecting">Đang kết nối…</string>
@@ -56,22 +43,18 @@
     <string name="bluetooth_connected_no_a2dp">Đã kết nối (không có phương tiện)</string>
     <string name="bluetooth_connected_no_map">Đã kết nối (không truy cập tin nhắn)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Đã k.nối (kg có ĐT hoặc p.tiện nào)</string>
-    <string name="bluetooth_connected_battery_level">Đã kết nối, mức pin %1$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Đã kết nối (không có điện thoại), mức pin %1$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">Đã kết nối (không có phương tiện), mức pin %1$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Đã kết nối (không có điện thoại hoặc phương tiện), mức pin %1$s</string>
     <string name="bluetooth_profile_a2dp">Âm thanh của phương tiện</string>
-    <string name="bluetooth_profile_headset">Cuộc gọi điện thoại</string>
+    <string name="bluetooth_profile_headset">Âm thanh điện thoại</string>
     <string name="bluetooth_profile_opp">Chuyển tệp</string>
     <string name="bluetooth_profile_hid">Thiết bị đầu vào</string>
     <string name="bluetooth_profile_pan">Truy cập Internet</string>
     <string name="bluetooth_profile_pbap">Chia sẻ liên hệ</string>
     <string name="bluetooth_profile_pbap_summary">Sử dụng để chia sẻ liên hệ</string>
     <string name="bluetooth_profile_pan_nap">Chia sẻ kết nối internet</string>
-    <string name="bluetooth_profile_map">Tin nhắn văn bản</string>
+    <string name="bluetooth_profile_map">Truy cập tin nhắn</string>
     <string name="bluetooth_profile_sap">Quyền truy cập SIM</string>
-    <string name="bluetooth_profile_a2dp_high_quality">Âm thanh HD: %1$s</string>
-    <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Âm thanh HD</string>
+    <string name="bluetooth_profile_a2dp_high_quality">Sử dụng âm thanh chất lượng cao: %1$s</string>
+    <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Sử dụng âm thanh chất lượng cao</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Đã kết nối với âm thanh phương tiện</string>
     <string name="bluetooth_headset_profile_summary_connected">Đã kết nối với âm thanh điện thoại</string>
     <string name="bluetooth_opp_profile_summary_connected">Đã kết nối với máy chủ chuyển tệp</string>
@@ -102,8 +85,6 @@
     <string name="accessibility_wifi_two_bars">Tín hiệu Wi-Fi hai vạch.</string>
     <string name="accessibility_wifi_three_bars">Tín hiệu Wi-Fi ba vạch.</string>
     <string name="accessibility_wifi_signal_full">Tín hiệu Wi-Fi đủ.</string>
-    <string name="accessibility_wifi_security_type_none">Mạng mở</string>
-    <string name="accessibility_wifi_security_type_secured">Mạng bảo mật</string>
     <string name="process_kernel_label">Hệ điều hành Android</string>
     <string name="data_usage_uninstalled_apps">Ứng dụng đã xóa</string>
     <string name="data_usage_uninstalled_apps_users">Ứng dụng và người dùng bị xóa</string>
@@ -178,8 +159,6 @@
     <string name="wifi_aggressive_handover">Chuyển vùng Wi‑Fi tích cực sang mạng DĐ</string>
     <string name="wifi_allow_scan_with_traffic">Luôn cho phép quét chuyển vùng Wi‑Fi</string>
     <string name="mobile_data_always_on">Dữ liệu di động luôn hiện hoạt</string>
-    <string name="tethering_hardware_offload">Tăng tốc phần cứng cho chia sẻ kết nối</string>
-    <string name="bluetooth_show_devices_without_names">Hiển thị các thiết bị Bluetooth không có tên</string>
     <string name="bluetooth_disable_absolute_volume">Vô hiệu hóa âm lượng tuyệt đối</string>
     <string name="bluetooth_enable_inband_ringing">Bật đổ chuông trong dải</string>
     <string name="bluetooth_select_avrcp_version_string">Bluetooth phiên bản AVRCP</string>
@@ -215,7 +194,6 @@ Chất lượng phát lại"</string>
     <string name="allow_mock_location_summary">Cho phép vị trí mô phỏng</string>
     <string name="debug_view_attributes">Cho phép kiểm tra thuộc tính của chế độ xem</string>
     <string name="mobile_data_always_on_summary">Luôn giữ cho dữ liệu di động hoạt động, ngay cả khi Wi-Fi đang hoạt động (để chuyển đổi mạng nhanh).</string>
-    <string name="tethering_hardware_offload_summary">Sử dụng tăng tốc phần cứng cho chia sẻ kết nối nếu được</string>
     <string name="adb_warning_title">Cho phép gỡ lỗi USB?</string>
     <string name="adb_warning_message">Gỡ lỗi USB chỉ dành cho mục đích phát triển. Hãy sử dụng tính năng này để sao chép dữ liệu giữa máy tính và thiết bị của bạn, cài đặt ứng dụng trên thiết bị của bạn mà không thông báo và đọc dữ liệu nhật ký.</string>
     <string name="adb_keys_warning_message">Thu hồi quyền truy cập gỡ lỗi USB từ tất cả máy tính mà bạn đã ủy quyền trước đó?</string>
@@ -223,7 +201,6 @@ Chất lượng phát lại"</string>
     <string name="dev_settings_warning_message">Những cài đặt này chỉ dành cho mục đích phát triển. Chúng có thể làm cho thiết bị và ứng dụng trên thiết bị của bạn bị lỗi và hoạt động sai.</string>
     <string name="verify_apps_over_usb_title">Xác minh ứng dụng qua USB</string>
     <string name="verify_apps_over_usb_summary">Kiểm tra các ứng dụng được cài đặt qua ADB/ADT để xem có hoạt động gây hại hay không.</string>
-    <string name="bluetooth_show_devices_without_names_summary">Các thiết bị Bluetooth không có tên (chỉ có địa chỉ MAC) sẽ được hiển thị</string>
     <string name="bluetooth_disable_absolute_volume_summary">Vô hiệu hóa tính năng âm lượng tuyệt đối qua Bluetooth trong trường hợp xảy ra sự cố về âm lượng với các thiết bị từ xa, chẳng hạn như âm lượng lớn không thể chấp nhận được hoặc thiếu kiểm soát.</string>
     <string name="bluetooth_enable_inband_ringing_summary">Cho phép nhạc chuông trên điện thoại được phát trên tai nghe Bluetooth</string>
     <string name="enable_terminal_title">Dòng lệnh cục bộ</string>
@@ -326,21 +303,19 @@ Chất lượng phát lại"</string>
     <string name="accessibility_display_daltonizer_preference_title">Sửa màu</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Tính năng này là tính năng thử nghiệm và có thể ảnh hưởng đến hoạt động.</string>
     <string name="daltonizer_type_overridden">Bị ghi đè bởi %1$s</string>
-    <string name="power_remaining_duration_only">Còn khoảng ^1</string>
-    <string name="power_remaining_duration_only_enhanced">Còn khoảng ^1 dựa trên mức sử dụng của bạn</string>
-    <string name="power_remaining_charging_duration_only">Còn ^1 cho tới khi được sạc đầy</string>
-    <string name="power_remaining_duration_only_short">Còn lại ^1</string>
-    <string name="power_remaining_duration_only_short_enhanced">Còn ^1 dựa trên mức sử dụng của bạn</string>
-    <string name="power_discharging_duration">^1 - còn khoảng ^2</string>
-    <string name="power_discharging_duration_enhanced">^1 - còn khoảng ^2 dựa trên mức sử dụng của bạn</string>
-    <string name="power_discharging_duration_short">^1 - còn lại ^2</string>
+    <string name="power_remaining_duration_only">Còn khoảng %1$s</string>
+    <string name="power_remaining_charging_duration_only">Còn %1$s cho tới khi được sạc đầy</string>
+    <string name="power_remaining_duration_only_short">Còn lại %1$s</string>
+    <string name="power_discharging_duration">%1$s - còn khoảng %2$s</string>
+    <string name="power_discharging_duration_short">%1$s - còn lại %2$s</string>
     <string name="power_charging">%1$s - %2$s</string>
-    <string name="power_charging_duration">^1 - ^2 cho tới khi được sạc đầy</string>
+    <string name="power_charging_duration">%1$s - %2$s cho tới khi được sạc đầy</string>
+    <string name="power_charging_duration_short">%1$s - %2$s</string>
     <string name="battery_info_status_unknown">Không xác định</string>
     <string name="battery_info_status_charging">Đang sạc</string>
     <string name="battery_info_status_charging_lower">đang sạc</string>
     <string name="battery_info_status_discharging">Hiện không sạc</string>
-    <string name="battery_info_status_not_charging">Đã cắm nhưng không thể sạc ngay</string>
+    <string name="battery_info_status_not_charging">Hiện không sạc</string>
     <string name="battery_info_status_full">Đầy</string>
     <string name="disabled_by_admin_summary_text">Do quản trị viên kiểm soát</string>
     <string name="enabled_by_admin">Kích hoạt bởi quản trị viên</string>
@@ -360,6 +335,7 @@ Chất lượng phát lại"</string>
     <string name="screen_zoom_summary_custom">Tùy chỉnh (%d)</string>
     <string name="help_feedback_label">Trợ giúp và phản hồi</string>
     <string name="content_description_menu_button">Menu</string>
+    <string name="time_zone_gmt">GMT</string>
     <string name="retail_demo_reset_message">Nhập mật khẩu để tiến hành khôi phục cài đặt gốc ở chế độ trình diễn</string>
     <string name="retail_demo_reset_next">Tiếp theo</string>
     <string name="retail_demo_reset_title">Yêu cầu mật khẩu</string>
@@ -376,6 +352,8 @@ Chất lượng phát lại"</string>
     <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
     <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_searchview_description_search">Tìm kiếm</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -386,10 +364,11 @@ Chất lượng phát lại"</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_capital_on">BẬT</string>
     <string name="abc_capital_off">TẮT</string>
     <string name="search_menu_title">Tìm kiếm</string>
-    <string name="setup_wizard_title">Thiết lập Android</string>
+    <string name="setup_wizard_title">Trình hướng dẫn Cài đặt</string>
     <string name="google">Google</string>
     <string name="device_name">điện thoại</string>
     <string name="finish_button_label">Hoàn tất</string>
@@ -407,6 +386,7 @@ Chất lượng phát lại"</string>
     <string name="dialog_continue_button_label">Tiếp tục</string>
     <string name="google_legal_title">Thông tin pháp lý của Google</string>
     <string name="url_load_unsuccessful_message">Điện thoại của bạn không được kết nối với dịch vụ dữ liệu di động. Để xem thông tin này ngay bây giờ, hãy truy cập %s trong trình duyệt web.</string>
+    <string name="start">Hãy bắt đầu</string>
     <string name="wait_msg">Hãy đợi giây lát…</string>
     <string name="skip_toast">Đã bỏ qua trình hướng dẫn thiết lập</string>
     <string name="terminate_toast">"Đã chấm dứt trình hướng dẫn thiết lập
@@ -422,6 +402,58 @@ Sẽ mất một lúc để kết nối với dữ liệu di động. Bạn có 
 "<li>Sử dụng mạng khác để thiết lập</li>"
 
 Nếu những tùy chọn này không thành công, bạn cũng có thể khởi động lại điện thoại và thử lại."</string>
+    <string name="activation_title_searching">Đang tìm kiếm dịch vụ…</string>
+    <string name="activation_title_activating">Đang kích hoạt dịch vụ di động…</string>
+    <string name="activation_default_network_name">mạng di động</string>
+    <string name="activation_network_bars_template">Thanh cường độ tín hiệu %d</string>
+    <string name="activation_text">Nhấn <b>Kích hoạt</b>" để kích hoạt dịch vụ di động của bạn ngay bây giờ. (Quá trình này có thể mất vài phút.)
+
+Hoặc thay vào đó, nhấn "<b>Bỏ qua</b> để thiết lập điện thoại của bạn bằng cách sử dụng kết nối Wi-Fi.</string>
+    <string name="activation_text_standalone">Nhấn <b>Kích hoạt</b> để kích hoạt dịch vụ di động của bạn ngay bây giờ. (Quá trình này có thể mất vài phút.)</string>
+    <string name="activation_skip_confirmation">"Cho đến khi bạn kích hoạt dịch vụ dữ liệu di động, phần lớn các tính năng của điện thoại sẽ không hoạt động.
+
+Nếu bây giờ bạn muốn bỏ qua, bạn có thể kích hoạt sau trong Cài đặt hệ thống."</string>
+    <string name="activation_continue_skip_label">Tiếp tục</string>
+    <string name="activation_button_label">Kích hoạt</string>
+    <string name="activation_progress_before_connect">Thay vào đó, nhấn <b>Bỏ qua</b> để hoàn thành thiết lập bằng cách sử dụng kết nối Wi-Fi.</string>
+    <string name="activation_progress">Quá trình kích hoạt có thể mất vài phút. Thay vào đó, nhấn <b>Bỏ qua</b> để hoàn thành thiết lập bằng cách sử dụng kết nối Wi-Fi.</string>
+    <string name="activation_progress_gen">Quá trình này có thể mất tới 5 phút</string>
+    <string name="activation_progress_mobile_data">"Điện thoại đang kích hoạt dịch vụ dữ liệu di động của bạn.
+
+Thao tác này có thể mất tối đa 5 phút."</string>
+    <string name="activation_progress_before_connect_standalone">Kích hoạt có thể mất vài phút.</string>
+    <string name="activation_progress_standalone">Kích hoạt có thể mất vài phút.</string>
+    <string name="activation_success_title">Kích hoạt hoàn tất</string>
+    <string name="activation_success_text">Nhấn <b>Tiếp theo</b> để tiếp tục thiết lập.</string>
+    <string name="activation_success_text_gen">Cần khởi động lại thiết bị của bạn để hoàn tất kích hoạt.</string>
+    <string name="activation_success_text_standalone">Nhấn <b>Tiếp theo</b>" để tiếp tục.
+
+Kích hoạt thành công nhưng có thể mất vài phút để mạng dữ liệu di động trở nên khả dụng."</string>
+    <string name="activation_failure_title">Không thể kích hoạt</string>
+    <string name="activation_failure_text">"Hãy thử lại sau một phút hoặc khởi động lại điện thoại nếu tình trạng này tiếp tục xảy ra.
+
+Nếu bạn muốn bỏ qua bây giờ, hãy nhớ kích hoạt sau trong Cài đặt hệ thống. Điện thoại của bạn sẽ không có kết nối dữ liệu di động cho tới khi bạn kích hoạt."</string>
+    <string name="activation_failure_text_gen">Không thể kích hoạt dịch vụ dữ liệu di động của bạn. Đây có thể là sự cố tạm thời và có thể giải quyết được bằng cách khởi động lại điện thoại.</string>
+    <string name="activation_failure_text_standalone">Không thể kích hoạt dịch vụ dữ liệu di động. Để thử kích hoạt lại, nhấn <b>Thử lại</b>".
+
+Bạn có thể kích hoạt dịch vụ dữ liệu di động sau trong "<b>Hệ thống > Mạng và Internet > Mạng di động</b></string>
+    <string name="activation_cancel_title">Đã hủy yêu cầu</string>
+    <string name="activation_cancel_text">Đang hủy kích hoạt...quá trình này có thể mất 5-10 giây.</string>
+    <string name="activation_canceled_title">Đã hủy kích hoạt</string>
+    <string name="activation_canceled_text">"Bạn muốn hủy kích hoạt? Bạn cần phải kích hoạt dịch vụ mạng di động của mình thì mới có thể sử dụng dịch vụ để kết nối Internet.
+
+Nhấn "<b>Tiếp theo</b>" để hoàn thành thiết lập bằng cách sử dụng kết nối Wi-Fi.
+
+Bạn có thể kích hoạt dịch vụ mạng di động của mình sau trong "<b>Hệ thống > Mạng và Internet > Mạng di động</b>.</string>
+    <string name="activation_canceled_text_standalone">"Đã hủy kích hoạt.
+
+Bạn có thể kích hoạt dịch vụ dữ liệu di động của mình sau trong "<b>Cài đặt > Mạng và Internet > Mạng di động</b>.</string>
+    <string name="activation_spc_failure_text">Đã xảy ra lỗi buộc phải tắt và khởi động lại điện thoại của bạn trước khi bạn có thể thực hiện một lần kích hoạt khác. Điện thoại của bạn sẽ tự động tắt sau 60 giây hoặc bạn có thể nhấn <b>Tắt ngay bây giờ</b>".
+
+Sau khi điện thoại của bạn tắt, hãy nhấn nút Nguồn để khởi động lại điện thoại. Quá trình kích hoạt sẽ tự động khởi động."</string>
+    <string name="shutdown_button_label">Tắt ngay bây giờ</string>
+    <string name="reboot_button_label">Khởi động lại</string>
+    <string name="activation_skip_text">Nếu bạn bỏ qua kích hoạt, hãy nhớ kích hoạt sau trong Cài đặt. Điện thoại sẽ không có kết nối dữ liệu di động cho tới khi bạn kích hoạt.</string>
     <string name="activation_unprovisioned_sim_message">Khởi động lại điện thoại và thử lại hoặc kết nối với Wi-Fi để thiết lập. Nếu bạn vẫn gặp sự cố khi kích hoạt dữ liệu di động, hãy liên hệ với nhà cung cấp dịch vụ của mình.</string>
     <string name="activation_unprovisioned_title">Không thể kích hoạt dữ liệu di động</string>
     <string name="notification_update_title">Tài khoản của bạn cần được cập nhật</string>
@@ -437,25 +469,22 @@ Sau đó, bạn có thể thêm và xóa tài khoản bằng cách chuyển đ�
     <string name="date_time_current_date">Ngày</string>
     <string name="date_time_current_time">Giờ</string>
     <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
-    <string name="time_zone_gmt">GMT</string>
-    <string name="sim_missing_title">Kết nối với mạng di động</string>
-    <string name="sim_missing_text">{sim_slots,plural, =1{Nếu bạn có thẻ SIM, hãy lắp vào ngay}other{Nếu bạn có thẻ SIM, hãy lắp vào ngay}}</string>
+    <string name="sim_missing_title">{sim_slots,plural, =1{Lắp thẻ SIM}other{Lắp thẻ SIM}}</string>
+    <string name="sim_missing_text">"{sim_slots,plural, =1{Bạn không chắc về cách làm? Hãy kiểm tra hướng dẫn đi kèm với điện thoại của bạn.
+
+Sau khi bạn lắp thẻ SIM, quá trình kích hoạt thẻ có thể mất vài giây.}other{Bạn không chắc về cách làm? Hãy kiểm tra hướng dẫn đi kèm với điện thoại của bạn.
+
+Sau khi bạn lắp thẻ SIM, quá trình kích hoạt thẻ có thể mất vài giây.}}"</string>
     <string name="sim_locked_title">Thẻ SIM không được hỗ trợ</string>
     <string name="sim_locked_text">"Điện thoại này hiện bị khóa đối với nhà cung cấp dịch vụ khác. Bạn cần sử dụng thẻ SIM hợp lệ.
 
 Sau khi bạn lắp thẻ SIM, có thể mất một vài giây để thẻ SIM kích hoạt."</string>
-    <string name="connect_cellular_standard_title">Kết nối với mạng di động</string>
-    <string name="connect_cellular_standard_subtitle">Nếu bạn có thẻ SIM, hãy lắp vào ngay</string>
-    <string name="esim_option_button_title">Bạn đang sử dụng %1$s?</string>
-    <string name="esim_option_button_summary">Hãy bắt đầu thiết lập mà không dùng SIM</string>
-    <string name="esim_warning_title">Thiết lập mà không dùng SIM</string>
-    <string name="esim_warning_txt">Nếu là người đăng ký %1$s, bạn sẽ nhận được cuộc gọi, tin nhắn văn bản và dữ liệu bằng cách tải xuống eSIM thay vì lắp thẻ SIM.</string>
     <string name="sim_setup_title">Thiết lập thẻ SIM</string>
     <string name="sim_setup_select_data">Chọn SIM cho dữ liệu di động</string>
     <string name="sim_setup_select_voice">Chọn SIM cho cuộc gọi</string>
     <string name="sim_setup_select_text">Chọn SIM cho tin nhắn văn bản</string>
     <string name="sim_setup_ask_every_time">Luôn hỏi</string>
-    <string name="wifi_title">Kết nối với Wi-Fi</string>
+    <string name="wifi_title">Chọn Wi‑Fi</string>
     <string name="wifi_skipped_title">Phí dữ liệu có thể có</string>
     <string name="wifi_skipped_message">Điện thoại của bạn sẽ sử dụng mạng di động trong khi thiết lập và bạn có thể bị tính phí đối với việc sử dụng dữ liệu này. Để tránh các khoản phí có thể có, hãy kết nối với Wi‑Fi.</string>
     <string name="wifi_scanning">Đang tìm kiếm mạng Wi-Fi...</string>
@@ -484,8 +513,9 @@ Nếu không có kết nối, bạn không thể:
     <string name="wifi_ip_address_not_available">Không có</string>
     <string name="wifi_mac_address_title">Địa chỉ MAC</string>
     <string name="wifi_mac_address_not_available">Không có</string>
-    <string name="network_title">Kết nối với Wi-Fi</string>
-    <string name="network_description_text">Để tải ứng dụng hoặc sao chép dữ liệu, hãy kết nối với mạng</string>
+    <string name="network_title">Kết nối</string>
+    <string name="network_description_text_new_flow">Để tiếp tục quá trình thiết lập, hãy kết nối với mạng</string>
+    <string name="network_description_text_restore_flow">Để sao chép hoặc khôi phục dữ liệu của bạn, như ảnh hoặc bản nhạc, hãy kết nối với mạng</string>
     <string name="network_see_all_wifi">Xem tất cả các mạng Wi-Fi</string>
     <string name="network_use_cellular">Sử dụng mạng di động để thiết lập</string>
     <string name="captive_portal_title">Đang kết nối…</string>
@@ -517,23 +547,26 @@ Nếu không có kết nối, bạn không thể:
     <string name="continue_for_a11y">Tiếp tục chạm vào màn hình cho đến khi bạn nghe thấy tiếng bíp để bật chế độ Trợ năng.</string>
     <string name="canceled_a11y">Đã hủy chế độ Trợ năng.</string>
     <string name="enabled_a11y">Đã bật chế độ Khả năng truy cập.</string>
-    <string name="welcome_message">Xin chào bạn</string>
-    <string name="emergency_dial">Cuộc gọi khẩn cấp</string>
+    <string name="welcome_message">Chào mừng bạn</string>
+    <string name="emergency_dial">Khẩn cấp</string>
     <string name="welcome_accessibility_button">Cài đặt hiển thị</string>
     <string name="welcome_language_picker_dialog_title">Chọn ngôn ngữ của bạn</string>
     <string name="welcome_language_picker_section_suggested">Ðược đề xuất</string>
     <string name="welcome_language_picker_section_all">Tất cả ngôn ngữ</string>
     <string name="welcome_language_picker_content_description">Ngôn ngữ: %s</string>
-    <string name="welcome_start_button_label">Bắt đầu</string>
+    <string name="welcome_start_button_label">Hãy bắt đầu</string>
     <string name="welcome_enterprise_enrollment_toast">Đăng ký dành cho doanh nghiệp bật</string>
+    <string name="retail_mode_item_disable_label">Vô hiệu hóa trình diễn bán lẻ</string>
+    <string name="retail_mode_item_label">Giới thiệu bán lẻ</string>
     <string name="retail_mode_warning_dialog_title">Phát video giới thiệu</string>
     <string name="retail_mode_warning_dialog_message">Thiết bị này sẽ phát video giới thiệu bán lẻ cho đến khi được khôi phục cài đặt gốc. Chế độ này dành cho các nhà bán lẻ chứ không cho mục đích sử dụng cá nhân.</string>
-    <string name="flow_choice_title">Sao chép ứng dụng và dữ liệu</string>
-    <string name="flow_choice_description_text">Chuyển ứng dụng, ảnh, nhạc, v.v. Sau đó chọn nội dung cần sao chép.</string>
+    <string name="retail_demo_button_text">Thiết lập bản trình diễn</string>
+    <string name="retail_demo_title">Chế độ trình diễn</string>
+    <string name="retail_demo_message">Nhập mật khẩu để bật chế độ trình diễn trên thiết bị này.</string>
+    <string name="flow_choice_title">Chào mừng bạn đến với ^1</string>
     <string name="flow_choice_restore_label">Sao chép dữ liệu của bạn</string>
-    <string name="flow_choice_restore_summary">Từ thiết bị Android hay iPhone® hoặc đám mây</string>
-    <string name="flow_choice_restore_summary_no_iphone">Từ thiết bị Android hoặc đám mây</string>
-    <string name="flow_choice_new_label">Thiết lập như thiết bị mới</string>
+    <string name="flow_choice_restore_summary">Từ thiết bị iPhone® hoặc Android hoặc đám mây</string>
+    <string name="flow_choice_new_label">Thiết lập như mới</string>
     <string name="flow_choice_new_summary">Bắt đầu hoàn toàn mới</string>
     <string name="restore_choice_title">Chuyển dữ liệu của bạn từ...</string>
     <string name="restore_choice_google_account_label">Bản sao lưu từ đám mây</string>
@@ -541,8 +574,7 @@ Nếu không có kết nối, bạn không thể:
     <string name="restore_choice_android_device_label">Bản sao lưu từ điện thoại Android</string>
     <string name="restore_choice_android_device_summary">Sử dụng điện thoại cũ của bạn để sao chép dữ liệu không dây</string>
     <string name="restore_choice_ios_device_label">Một thiết bị iPhone®</string>
-    <string name="restore_choice_dont_copy">Không sao chép</string>
-    <string name="migrate_from_ios_description">Làm theo các bước sau:</string>
+    <string name="migrate_from_ios_description">Hãy thực hiện các bước sau trên thiết bị iPhone® của bạn:</string>
     <string name="migrate_from_ios_instructions_1">1. Mở Safari</string>
     <string name="migrate_from_ios_instructions_2">2. Truy cập <b>android.com/switch</b></string>
     <string name="migrate_from_ios_instructions_3">3. Làm theo hướng dẫn</string>
@@ -556,11 +588,8 @@ Nếu không có kết nối, bạn không thể:
     <string name="services_communication_heading">Giao tiếp</string>
     <string name="security_verify_apps_summary">Cho phép Google kiểm tra tất cả ứng dụng đã cài đặt xem có hành vi gây hại tiềm ẩn nào có thể ảnh hưởng đến bảo mật của thiết bị hoặc dữ liệu của bạn hay không.</string>
     <string name="suggested_actions_title">Còn gì nữa không?</string>
-    <string name="suggested_actions_title_deferred">Cá nhân hóa thiết bị theo cách của bạn</string>
-    <string name="suggested_actions_done_label">Hoàn tất bây giờ</string>
-    <string name="suggested_actions_description">Thiết lập một vài thứ khác ngay bây giờ hoặc tìm chúng sau trong Cài đặt.</string>
-    <string name="suggested_actions_description_single_item">Đây là một mục nữa để bạn thiết lập trên ^1 của mình. Bạn cũng có thể tìm thấy mục này sau trong Cài đặt.</string>
-    <string name="suggested_actions_description_deferred">Tùy chỉnh ^1 của bạn và khám phá các tính năng khác của thiết bị</string>
+    <string name="suggested_actions_description">Dưới đây là một vài thứ khác bạn có thể thiết lập. Hoặc bạn có thể hoàn tất chúng sau bằng cách đi tới Cài đặt.</string>
+    <string name="suggested_actions_done_label">Đã hoàn tất</string>
     <string name="restore_title">Đang khôi phục…</string>
     <string name="restore_wallpaper_title">Đang khôi phục hình nền...</string>
     <string name="restore_device_settings_title">Đang khôi phục cài đặt thiết bị...</string>
@@ -592,9 +621,6 @@ Vì bạn chưa thực hiện điều này nên bạn phải thiết lập lại
     <string name="user_warning_label_continue">Tiếp tục</string>
     <string name="user_warning_label_quit">Hủy</string>
     <string name="user_warning_title">Thiết lập người dùng mới</string>
-    <string name="user_warning_quit_dialog_message">Xóa người dùng?</string>
-    <string name="user_warning_quit_dialog_button_remove">Xóa người dùng</string>
-    <string name="user_warning_quit_dialog_button_keep">Giữ người dùng</string>
     <string name="welcome_secondary_user_added_text">Bạn đã được thêm vào điện thoại này</string>
     <string name="welcome_secondary_user_info_text"><b>Quan trọng:</b>"
 
@@ -623,41 +649,5 @@ Sau khi quá trình tải xuống hoàn tất, hãy sử dụng máy ảnh để
     <string name="switched_to_back_camera_announcement">Hiện tại, nút ở chế độ máy ảnh mặt trước</string>
     <string name="exit_loading_launcher">Đang tải trình khởi chạy…</string>
     <string name="notification_channel_security_name_warnings">Cảnh báo bảo mật</string>
-    <string name="notification_channel_name_restore">Phục hồi dữ liệu</string>
-    <string name="notification_channel_name_deferred">Thiết lập bổ sung</string>
-    <string name="deferred_setup_wizard_title">Hoàn tất thiết lập thiết bị của bạn</string>
-    <string name="deferred_setup_wizard_title_expandable">Hoàn tất thiết lập ^1</string>
-    <string name="deferred_setup_button_label">Hoàn tất thiết lập</string>
-    <string name="deferred_setup_notification_cancel_button_label">Không phải bây giờ</string>
-    <string name="deferred_setup_ongoing_notification_title">Đang thiết lập ^1</string>
-    <string name="deferred_setup_high_priority_notification_title">Thiết lập ^1 chưa được hoàn tất</string>
-    <string name="deferred_setup_medium_priority_notification_title">Hoàn tất thiết lập ^1</string>
-    <string name="deferred_setup_low_priority_notification_title">Trình hướng dẫn thiết lập — Tùy chỉnh ^1 của bạn</string>
-    <string name="deferred_setup_wizard_reason_template_two_reasons">^1, ^2 và nhiều lý do khác</string>
-    <string name="deferred_setup_wizard_reason_fragment_sim">lắp thẻ SIM</string>
-    <string name="deferred_setup_wizard_reason_fragment_account">thêm Tài khoản Google</string>
-    <string name="deferred_setup_wizard_reason_fragment_restore">chuyển dữ liệu</string>
-    <string name="deferred_setup_wizard_reason_fragment_fingerprint">thêm vân tay</string>
-    <string name="deferred_setup_wizard_reason_fragment_lockscreen">thêm khóa màn hình</string>
-    <string name="deferred_setup_wizard_reason_fragment_generic">đặt hình nền</string>
-    <string name="deferred_setup_wizard_reason_default_high_priority">Chỉ một vài bước nữa thôi</string>
-    <string name="deferred_setup_wizard_reason_default">Hoàn thành một số bước được đề xuất</string>
-    <string name="deferred_setup_wizard_continue_setup">Nhấn để hoàn tất thiết lập ^1</string>
-    <string name="deferred_welcome_title">Hoàn tất thiết lập ^1</string>
-    <string name="deferred_welcome_airplane_mode_title">Tắt chế độ trên máy bay?</string>
-    <string name="deferred_welcome_message">Chỉ một vài bước nhanh chóng và ^1 của bạn sẽ sẵn sàng hoạt động</string>
-    <string name="deferred_welcome_airplane_mode_message">"Bạn cần có kết nối để hoàn tất vài bước thiết lập cuối.
-
-Khi chế độ trên máy bay bật, Wi‑Fi, các mạng di động và Bluetooth sẽ bị ngắt kết nối."</string>
-    <string name="deferred_welcome_turn_off_button_label">Tắt</string>
-    <string name="deferred_welcome_screen_cancel_button">Không, cảm ơn</string>
-    <string name="deferred_welcome_airplane_mode_snooze_button">Thiết lập sau</string>
-    <string name="closing_deferred_title">Một mẹo cuối cùng</string>
-    <string name="closing_deferred_message">Để được hỗ trợ, biết các mẹo và thủ thuật cùng nhiều nội dung khác, hãy đi tới Cài đặt > Hỗ trợ &amp; mẹo</string>
-    <string name="deferred_closing_screen_support_button">Chuyển tới hỗ trợ</string>
-    <string name="deferred_closing_screen_next_button">Đã hoàn tất</string>
-    <string name="deferred_snooze_dialog_title">Nhắc tôi</string>
-    <string name="deferred_snooze_dialog_option_today">Lúc khác trong ngày hôm nay</string>
-    <string name="deferred_snooze_dialog_option_tomorrow">Ngày mai</string>
-    <string name="deferred_snooze_dialog_option_never">Không bao giờ</string>
+    <string name="notification_channel_name_restore">Khôi phục</string>
 </resources>

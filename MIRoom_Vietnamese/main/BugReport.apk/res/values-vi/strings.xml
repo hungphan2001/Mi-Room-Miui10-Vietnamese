@@ -321,10 +321,10 @@
     <string name="toast_pic_not_exists">Ảnh bộ nhớ đệm đã bị xóa</string>
     <string name="toast_screenshot_too_large">Không thể tải tập tin lớn hơn 10MB.</string>
     <string name="toast_log_too_large">Không thể tải lên. Tập tin quá lớn.</string>
-    <string name="title_bbs_feedback_main">Tìm hiểu thêm về Điện thoại Mi</string>
     <string name="title_customer_service">Dịch vụ khách hàng</string>
     <string name="customer_service_apply">Yêu cầu dịch vụ khách hàng</string>
     <string name="customer_service_complain">Báo cáo dịch vụ khách hàng</string>
     <string name="customer_service_station">Vị trí dịch vụ</string>
     <string name="select_system_app_tag">Chọn vấn đề</string>
+    <string name="title_bbs_feedback_main">Tìm hiểu thêm về Điện thoại Mi</string>
 </resources>

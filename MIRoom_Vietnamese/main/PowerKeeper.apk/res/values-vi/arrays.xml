@@ -23,6 +23,7 @@
     <string-array name="thermal_summaries">
         <item>Ưu tiên khống chế nhiệt độ</item>
         <item>Ưu tiên hiệu suất</item>
+        <item>Đã tắt cấu hình ở chế độ siêu tiết kiệm pin</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Hiệu suất</item>

@@ -425,8 +425,8 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
     <string name="ent_privacy_policy_notice">* Dữ liệu cá nhân trong chế độ này được thu thập theo chính sách của cơ quan bạn. Xiaomi không thu thập dữ liệu cá nhân trong chế độ này.</string>
     <string name="ent_confirm_dialog_content">Bạn sẽ không thể quay lại trạng thái hiện tại của hệ thống sau khi kích hoạt Chế độ doanh nghiệp. Tuy nhiên, tất cả dữ liệu sẽ vẫn được lưu trữ trên thiết bị này. Bạn phải khởi động lại thiết bị để kích hoạt Chế độ Doanh nghiệp. Kích hoạt ngay?</string>
     <string name="ent_error_dialog_content">Ít nhất một mã bạn nhập không chính xác. Kiểm tra mã cơ quan và kích hoạt và nhập lại.</string>
-    <string name="ent_download_install_dialog_content">Bạn phải cài đặt các ứng dụng của cơ quan để kích hoạt chế độ Doanh nghiệp. Cài đặt ngay?</string>
-    <string name="ent_download_install_dialog_title">Tải xuống ứng dụng cơ quan</string>
+    <string name="ent_download_install_dialog_content">Bạn phải cài đặt ứng dụng doanh nghiệp để kích hoạt chế độ doanh nghiệp. Cài đặt ngay?</string>
+    <string name="ent_download_install_dialog_title">Tải xuống ứng dụng Doanh nghiệp</string>
     <string name="ent_downloading_message">Đang tải xuống %d%%</string>
     <string name="install">Cài đặt</string>
     <string name="install_error">Không thể cài đặt. Thử lại.</string>

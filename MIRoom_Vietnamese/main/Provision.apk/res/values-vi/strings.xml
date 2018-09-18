@@ -100,5 +100,8 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
     <string name="continue_to_enable_accessibility">Bấm giữ hai ngón tay để bật khả năng truy cập.</string>
     <string name="voice_assist_title">Đánh thức bằng âm thanh</string>
     <string name="voice_assist_desp">Nói \"Mi AI\" vào điện thoại. Mi AI sẽ nhận biết âm thanh của bạn và cho phép bạn điều khiển thiết bị.</string>
-    <string name="voice_assist_desp_screen_light">Sau khi màn hình sáng lên, nói \"Mi AI\" vào điện thoại. Mi AI sẽ nhận biết âm thanh của bạn và cho phép bạn điều khiển thiết bị.</string>
+    <string name="voice_assist_condition">"Bạn sẽ có thể sử dụng Mi AI trong những trường hợp sau:
+. Khi màn hình bật.
+2. Khi bạn đang nghe nhạc với màn hình tắt."</string>
+    <string name="voice_assist_advice">Mi AI cho phép bạn sử dụng điều khiển bằng giọng nói, nhưng nó tiêu thụ nhiều điện năng hơn (+ 1% mỗi giờ).</string>
 </resources>

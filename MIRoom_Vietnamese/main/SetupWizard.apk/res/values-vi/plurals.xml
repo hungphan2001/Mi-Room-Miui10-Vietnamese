@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Sẽ tắt sau %d giây…</item>
+        <item quantity="one">Sẽ tắt sau %d giây…</item>
+    </plurals>
     <plurals name="account_exists_text_multiple">
         <item quantity="other">"Các tài khoản sau đây đã sẵn sàng:
 

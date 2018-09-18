@@ -62,6 +62,7 @@
     <string name="edit_alarm">Sửa báo thức</string>
     <string name="edit_systemtime">Chỉnh sửa thời gian hệ thống</string>
     <string name="every_day">Mỗi ngày</string>
+    <string name="expired_timers_dismissed">Hẹn giờ đã bỏ qua</string>
     <string name="force_touch_add_alarm">Thêm báo thức</string>
     <string name="force_touch_enter_stopwatch">Bấm giờ</string>
     <string name="force_touch_enter_timer">Hẹn giờ</string>
@@ -72,6 +73,7 @@
     <string name="install_weather_app_error">Không thể tải ứng dụng</string>
     <string name="install_weather_app_loading">Vui lòng chờ…</string>
     <string name="invalid_time">Thời gian không hợp lệ: %3$s %1$d: %2$d</string>
+    <string name="invalid_timer_length">Thời gian hẹn giờ không hợp lệ</string>
     <string name="keep_screen_on">Giữ màn hình luôn bật</string>
     <string name="label">Đặt nhãn</string>
     <string name="label_pref_summary">Nhãn</string>
@@ -129,8 +131,10 @@
     <string name="never">Một lần</string>
     <string name="oneshot_alarm">Xóa sau khi đã báo thức</string>
     <string name="open_keep_screen">Màn hình sẽ được giữ nguyên</string>
+    <string name="other_category_title">Khác</string>
     <string name="pause">Tạm dừng</string>
     <string name="percentage_sign">%</string>
+    <string name="privacy_policy">Chính sách Riêng tư</string>
     <string name="remind_ringtone">Nhạc chuông</string>
     <string name="reset">Đặt lại</string>
     <string name="revert">Hoàn nguyên</string>
@@ -182,6 +186,7 @@
     <string name="timer_clock_alert_text">Đặt hẹn giờ</string>
     <string name="timer_continue">Tiếp tục</string>
     <string name="timer_continue_timer">Tiếp tục hẹn giờ</string>
+    <string name="timer_created">Đã tạo hẹn giờ</string>
     <string name="timer_end_time">Hẹn giờ sẽ dừng vào %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
