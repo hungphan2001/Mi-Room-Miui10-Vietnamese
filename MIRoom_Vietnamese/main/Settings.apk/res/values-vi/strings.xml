@@ -236,7 +236,6 @@ Quản trị viên của bạn có thể giám sát và quản lý cài đặt, 
     <string name="android_beam_off_summary">Tắt chia sẻ nội dung qua NFC</string>
     <string name="android_beam_on_summary">Bật chia sẻ nội dung qua NFC</string>
     <string name="android_beam_tips">Hãy chắc rằng hai thiết bị này được chạm vào nhau, và sau đó chạm vào nội dung bạn muốn chuyển.</string>
-    <string name="animator_duration_scale_title">Tỷ lệ thời lượng ảnh động</string>
     <string name="another_migration_already_in_progress">Đang diễn ra một hoạt động di chuyển khác.</string>
     <string name="anti_spam">Danh sách chặn</string>
     <string name="aod_close_color_inversion">Tính năng này không thể kết hợp với đảo màu. Tắt đảo màu trước.</string>
@@ -2645,7 +2644,6 @@ Có người dùng khác trên thiết bị này.
     <string name="miui_lab_super_resolution_title">Siêu phân giải</string>
     <string name="miui_master_clear_summary">Xóa tất cả dữ liệu trên điện thoại</string>
     <string name="miui_touch_filtered_warning">Nếu hộp thoại yêu cầu quyền bị chặn bởi một ứng dụng nào đó, hãy di chuyển hoặc đóng ứng dụng đó.</string>
-    <string name="miui_updater">Cập nhật hệ thống</string>
     <string name="miui_userguide">Hướng dẫn sử dụng</string>
     <string name="mms_breathing_light_color_title">Màu đèn tin nhắn</string>
     <string name="mms_breathing_light_freq_title">Tần suất nhấp nháy khi có tin nhắn</string>
@@ -4571,7 +4569,6 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="system_shortcut_wake">Phím tắt đánh thức thiết bị</string>
     <string name="system_storage">Lưu trữ hệ thống</string>
     <string name="system_ui_settings">Hiện Bộ điều chỉnh SystemUI</string>
-    <string name="system_update_settings_list_item_title">Bản cập nhật hệ thống</string>
     <string name="talkback_summary">Trình đọc màn hình chủ yếu dành cho những người khiếm thị và thị lực kém</string>
     <string name="tap_to_wake">Nhấn để đánh thức</string>
     <string name="tap_to_wake_summary">Nhấn đúp vào vị trí bất kỳ trên màn hình để đánh thức thiết bị</string>
@@ -5548,8 +5545,6 @@ Chạm"<b> Quay lại</b> để kết nối với mạng Wi-Fi khác.</string>
     <string name="wifi_traffic_priority_regular">Chế độ thường</string>
     <string name="wifi_traffic_priority_regular_summary">Chia sẻ băng thông giữa tiến trình nền và ứng dụng ở nền trước</string>
     <string name="wifi_traffic_priority_summary">Ưu tiên tốc độ kết nối tự động</string>
-    <string name="wifi_type_approval_dialog_title">SỐ NTC.</string>
-    <string name="wifi_type_approval_title">Loại phê duyệt</string>
     <string name="wifi_unchanged">(không thay đổi)</string>
     <string name="wifi_unspecified">Vui lòng chọn</string>
     <string name="wifi_use_system_certs">Sử dụng chứng chỉ hệ thống</string>
