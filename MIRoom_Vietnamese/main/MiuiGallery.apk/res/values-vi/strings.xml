@@ -719,6 +719,7 @@ khả dụng"</string>
     <string name="operation_save">Lưu</string>
     <string name="operation_send">Gửi</string>
     <string name="operation_set_contact_photo">Đặt làm ảnh liên hệ</string>
+    <string name="operation_set_slide_wallpaper">Đặt làm hình nền trình chiếu</string>
     <string name="operation_set_wallpaper">Đặt làm hình nền</string>
     <string name="operation_share">Chia sẻ</string>
     <string name="operation_show_in_photos_tab">Hiển thị trong Ảnh</string>
@@ -864,6 +865,7 @@ khả dụng"</string>
     <string name="picker_no_network_message">Kết nối mạng để tải xuống</string>
     <string name="picker_origin_need_download">%1$d ảnh đã chọn (%2$dMB) không nằm trên thiết bị. Tải xuống bằng dữ liệu di động?</string>
     <string name="picker_origin_request_progress_message">Đang chuẩn bị tập tin gốc (%1$d/%2$d)…</string>
+    <string name="picker_origin_request_progress_fail">"Không thể tải xuống hình ảnh gốc do hình nền trình chiếu lỗi mạng."</string>
     <string name="picker_title_format">Chọn %1$d đến %2$d ảnh</string>
     <string name="picker_title_selection_format">Đã chọn: %d ảnh</string>
     <string name="picker_title_selection_format_multiple">Chọn %1$d đến %2$d ảnh (%3$d)</string>
@@ -1030,6 +1032,8 @@ khả dụng"</string>
     <string name="send_secret_file_space_low">Không đủ dung lượng lưu trữ</string>
     <string name="send_too_many_files_error">Không thể gửi %d mục cùng một lúc</string>
     <string name="set_as_baby_lock_wallpaper">Đặt làm hình nền Màn hình khóa</string>
+    <string name="set_as_slide_wallpaper_description">Hình ảnh này là hình thu nhỏ, tải xuống bản gốc?</string>
+  <string name="set_as_slide_wallpaper_title">Đặt làm hình nền trình chiếu</string>
     <string name="set_as_wallpaper_description">Ảnh này là dạng ảnh thu nhỏ, tải xuống ảnh gốc?</string>
     <string name="set_as_wallpaper_title">Đặt làm hình nền</string>
     <string name="set_face_group_toast_msg_new_user">Bấm giữ khuôn mặt để hợp nhất hoặc bỏ qua.</string>
