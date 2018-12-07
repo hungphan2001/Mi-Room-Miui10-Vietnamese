@@ -576,6 +576,12 @@ phản hồi"</string>
     <string name="data_usage_no_total_package_body_dual">Không thiết lập giới hạn dữ liệu cho %s</string>
     <string name="data_usage_warning_title_notify">Bạn đã vượt quá giới hạn dữ liệu</string>
     <string name="data_usage_warning_body_notify">Chạm để xem chi tiết</string>
+  <string name="deep_power_save_item_summary_auto_brightness">Độ sáng màn hình tự động để tiết kiệm pin</string>
+  <string name="deep_power_save_item_summary_bluetooth">Tắt Bluetooth để tiết kiệm PIN </string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Để màn hình ở chế độ ngủ sau 30 giây</string>
+  <string name="deep_power_save_item_title_auto_brightness">Tắt tự động độ sáng</string>
+  <string name="deep_power_save_item_title_bluetooth">Tắt Bluetooth </string>
+  <string name="deep_power_save_item_title_lock_screen_time">Để màn hình ở chế độ ngủ</string>
     <string name="leisure_usage_dialog_title">Bạn đã vượt quá giới hạn dữ liệu ngoài giờ cao điểm, kết nối dữ liệu đã bị tắt</string>
     <string name="leisure_usage_dialog_message">"Bạn đã đạt đến giới hạn dữ liệu ngoài giờ cao điểm.
 
