@@ -43,4 +43,10 @@
         <item>Ông ngoại</item>
         <item>Bà ngoại</item>
     </string-array>
+        <string-array name="season">
+        <item>Mùa Xuân</item>
+        <item>Mùa Hạ</item>
+        <item>Mùa Thu</item>
+        <item>Mùa Đông</item>
+    </string-array>
 </resources>
