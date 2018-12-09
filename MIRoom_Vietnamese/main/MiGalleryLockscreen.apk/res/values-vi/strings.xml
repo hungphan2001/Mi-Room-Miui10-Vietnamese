@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="app_name">Khóa tạp chí</string>
     <string name="apply">Áp dụng</string>
     <string name="at_least_one">Chọn ít nhất một thể loại</string>
@@ -7,6 +8,25 @@
     <string name="cancel">Hủy</string>
     <string name="cancel_international">Hủy</string>
     <string name="cancel_lockscreen">Hủy</string>
+    <string name="cat_1">Thành phố</string>
+    <string name="cat_10">Thiên nhiên</string>
+    <string name="cat_11">Công nghệ</string>
+    <string name="cat_12">Nghệ thuật</string>
+    <string name="cat_13">Đồ ăn</string>
+    <string name="cat_14">Diễn viên</string>
+    <string name="cat_15">Nữ diễn viên</string>
+    <string name="cat_16">Gái</string>
+    <string name="cat_17">Phim</string>
+    <string name="cat_18">Động vật</string>
+    <string name="cat_19">Anime</string>
+    <string name="cat_2">Hình minh họa</string>
+    <string name="cat_3">Nội địa</string>
+    <string name="cat_4">Thể thao</string>
+    <string name="cat_5">Pop</string>
+    <string name="cat_6">Mọi người</string>
+    <string name="cat_7">Ô tô</string>
+    <string name="cat_8">Tin học</string>
+    <string name="cat_9">Thời trang</string>
     <string name="change_time">Đổi hình nền</string>
     <string name="day">Mỗi ngày một lần</string>
     <string name="declaration">Nhận hình nền mới cho màn hình khóa miễn phí mỗi ngày.</string>
@@ -34,6 +54,11 @@
     <string name="platform_unavailable_weibo">Vui lòng cài đặt Weibo</string>
     <string name="resource_apply">Áp dụng</string>
     <string name="resource_no_network_text">Không thể kết nối mạng.</string>
+    <string name="save_hdpicture_in_favor">Hiện thị ảnh HD trong mục thích</string>
+    <string name="save_picture_success">Đã lưu</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="search_str">Nổi tiếng nhiều yêu cầu</string>
+    <string name="select_package">Lựa chọn phiên bản</string>
     <string name="setting_head">Cài đặt</string>
     <string name="settings">Cài đặt</string>
     <string name="share">Chia sẻ</string>
