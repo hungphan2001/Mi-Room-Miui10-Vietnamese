@@ -1405,6 +1405,12 @@ Do việc sử dụng dữ liệu được điện thoại của bạn tính và
     <string name="device_cpu4_info">Bốn nhân</string>
     <string name="device_cpu6_info">Sáu nhân</string>
     <string name="device_cpu8_info">Tám nhân</string>
+	<string name="device_description_battery">Mức độ pin </string>
+    <string name="device_description_camera">Camera sau</string>
+    <string name="device_description_cpu">CPU</string>
+    <string name="device_description_ram">RAM</string>
+    <string name="device_description_resolution">Độ phân giải</string>
+    <string name="device_description_screen">Cỡ màn hình</string>
     <string name="device_display_layout_title">Tính năng đặc sắc của Mi 5</string>
     <string name="device_edit_title">Đổi tên điện thoại</string>
     <string name="device_feedback">Gửi phản hồi về thiết bị này</string>
