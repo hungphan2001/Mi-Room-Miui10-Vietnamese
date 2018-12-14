@@ -874,15 +874,12 @@ Tỷ lệ mẫu"</string>
     <string name="bootloader_locked_question_1">Tại sao nên khóa thiết bị?</string>
     <string name="bootloader_locked_question_2">Tôi hiểu các nguy cơ, nhưng vẫn muốn mở khóa thiết bị.</string>
     <string name="bootloader_status">Trạng thái Mở khóa Mi</string>
-    <string name="bootloader_status_locked">Đã khóa</string>
-    <string name="bootloader_status_locked_info">Thiết bị này đã khóa</string>
     <string name="bootloader_status_locked_summary">Điện thoại an toàn</string>
     <string name="bootloader_status_privacy_dialog_message">Mở khóa Mi cần Tài khoản Mi, CPU ID, IMEI, IMSI để làm việc bình thường. Chúng tôi sưu tập, sử dụng, và truy cập dữ liệu của bạn theo %s. Đồng ý?</string>
     <string name="bootloader_status_privacy_dialog_no">Hủy</string>
     <string name="bootloader_status_privacy_dialog_title">Yêu cầu quyền</string>
     <string name="bootloader_status_privacy_dialog_url_text">Chính sách Riêng tư</string>
     <string name="bootloader_status_privacy_dialog_yes">Đồng ý</string>
-    <string name="bootloader_status_summary">Kiểm tra thiết bị bị khóa hay không</string>
     <string name="bootloader_status_unlocked">Đã mở khóa</string>
     <string name="bootloader_status_unlocked_info">Thiết bị này đã mở khóa</string>
     <string name="bootloader_summary">Flash thiết bị của bạn qua USB</string>
