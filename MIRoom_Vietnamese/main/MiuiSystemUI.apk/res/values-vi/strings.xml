@@ -1291,6 +1291,12 @@ Bạn cũng cần kết nối VPN, nó cũng có thể giám sát hoạt động
     <string name="recents_multistack_add_stack_dialog_split_vertical">Chia theo chiều đứng</string>
     <string name="recents_search_bar_label">Tìm kiếm</string>
     <string name="recents_stack_action_button_label">Xóa tất cả</string>
+	<string name="recents_title_app_manager">Ứng dụng</string>
+     <string name="recents_title_game">Trò chơi</string>
+     <string name="recents_title_garbage_cleanup">Làm sạch</string>
+     <string name="recents_title_garbage_deepclean">Làm sạch sâu</string>
+     <string name="recents_title_market">Tìm kiếm</string>
+     <string name="recents_title_security_scan">Kiểm tra bảo mật</string>
     <string name="reject_call">Từ chối cuộc gọi</string>
     <string name="remaining_length_format">Còn lại %1$s</string>
     <string name="remove_from_settings">Xóa khỏi Cài đặt</string>
