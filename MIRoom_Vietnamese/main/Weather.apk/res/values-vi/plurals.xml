@@ -16,15 +16,18 @@
         <item quantity="other">Phản hồi sau %1$s giây</item>
     </plurals>
     <plurals name="no_vote_num">
-        <item quantity="other">%1$s người | </item>
+        <item quantity="other">%1$s người | </item>
     </plurals>
     <plurals name="total_voted_num_text">
-        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> người đã bình chọn"</item>
+        <item quantity="other">"&amp;lt;font color='#20a7ff'>%1$s&amp;lt;/font> người đã bình chọn"</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Quang</item>
     </plurals>
     <plurals name="yes_vote_num">
-        <item quantity="other"> | %1$s người</item>
+        <item quantity="other"> | %1$s người</item>
+    </plurals>
+	<plurals name="aqi_all_city_cur_num">
+        <item quantity="other">Trung bình của %1$s trạm</item>
     </plurals>
 </resources>

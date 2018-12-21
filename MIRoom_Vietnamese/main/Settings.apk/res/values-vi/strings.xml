@@ -880,9 +880,6 @@ Tỷ lệ mẫu"</string>
     <string name="bootloader_status_privacy_dialog_title">Yêu cầu quyền</string>
     <string name="bootloader_status_privacy_dialog_url_text">Chính sách Riêng tư</string>
     <string name="bootloader_status_privacy_dialog_yes">Đồng ý</string>
-    <string name="bootloader_status_unlocked">Đã mở khóa</string>
-    <string name="bootloader_status_unlocked_info">Thiết bị này đã mở khóa</string>
-    <string name="bootloader_summary">Flash thiết bị của bạn qua USB</string>
     <string name="breathing_light_color_menu_title">Màu đèn</string>
     <string name="breathing_light_color_summary">Màu đèn khi nhận thông báo mới</string>
     <string name="breathing_light_freq_summary">Nhấp nháy khi bạn có thông báo mới</string>
@@ -1439,6 +1436,8 @@ Do việc sử dụng dữ liệu được điện thoại của bạn tính và
     <string name="device_theme">Chủ đề thiết bị</string>
     <string name="device_total_memory">Tổng lưu trữ</string>
     <string name="device_usage_list_summary">Mức sử dụng thiết bị kể từ lần sạc đầy</string>
+	<string name="default_launcher_set_jeejen_message">Bấm phím Trang chính để thiết lập Jeejen</string>
+    <string name="default_launcher_set_system_message">Bấm phím Trang chính để khôi phục trình khởi chạy mặc định</string>
     <string name="dial_application_title">Quay số</string>
     <string name="dial_pad_tones_title">Âm bàn phím số</string>
     <string name="dialog_chose_item">Chọn mục để hiển thị</string>
@@ -1580,6 +1579,9 @@ Do việc sử dụng dữ liệu được điện thoại của bạn tính và
     <string name="doze_summary">Bật màn hình khi bạn nhận được thông báo</string>
     <string name="doze_title">Màn hình xung quanh</string>
     <string name="draw_overlay">Hiển thị trên các ứng dụng khác</string>
+	<string name="dump_log">Nhận nhật ký liên quan đến vấn đề</string>
+    <string name="dump_log_summary">"Tính năng này được thiết kế để tạo ra 284 bản ghi trong các phiên bản Alpha và Beta của MIUI.          Hãy thận trọng khi sử dụng.
+Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</string>
     <string name="dtmf_tone_enable_title">Âm bàn phím quay số</string>
     <string name="edge_mode_back">Quay lại</string>
     <string name="edge_mode_back_summary">Chạm đúp vào cạnh viền màn hình để quay lại</string>
@@ -2622,6 +2624,7 @@ Có người dùng khác trên thiết bị này.
     <string name="menu_stats_total">Tổng số sử dụng</string>
     <string name="menu_stats_unplugged">%1$s từ khi tháo đầu cắm</string>
     <string name="menu_use_uss">Sử dụng Uss</string>
+	<string name="network_name_input_error">Không thể lưu SSID. Hãy thử lại.</string>
     <string name="mi_pay_summary">Thẻ xe bus/Mi Pay/Card Emulator</string>
     <string name="mi_service_app_detail">Chi tiết sử dụng dữ liệu</string>
     <string name="mi_upi_settings">Tài khoản Mi Pay</string>
@@ -2634,7 +2637,9 @@ Có người dùng khác trên thiết bị này.
     <string name="miui_allow_vibrate">Rung</string>
     <string name="miui_data_usage_menu_metered">Điểm phát sóng di động</string>
     <string name="miui_experience_optimization">Bật tối ưu hóa MIUI</string>
-    <string name="miui_lab_ai_cloud_closed">Tải trước AI chưa khả dụng.</string>
+    <string name="miui_ime_xiaoai_voice_hint">Nhập văn bản nhanh hơn, thuận tiện hơn</string>
+    <string name="miui_ime_xiaoai_voice_title">Nhập lời thoại Mi AI</string>
+	<string name="miui_lab_ai_cloud_closed">Tải trước AI chưa khả dụng.</string>
     <string name="miui_lab_ai_preload_desc">Tải trước AI sẽ tăng tốc độ khởi chạy ứng dụng</string>
     <string name="miui_lab_ai_preload_title">Tải trước AI</string>
     <string name="miui_lab_drive_mode_desc">Sử dụng điều khiển giọng nói &amp; phát sóng WeChat</string>
