@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="fw_blocked_count_call">
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d ký tự khác</item>
+    </plurals>
+	<plurals name="menu_text_app_manager_2">
+        <item quantity="other">%d ứng dụng</item>
+    </plurals>
+	<plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Đã hao %2$d%% pin trong %1$d phút</item>
+    </plurals>
+	<plurals name="om_locked_apps_title">
+        <item quantity="other">%d ứng dụng bị khóa</item>
+    </plurals>
+	<plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+    </plurals>
+	<plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Thêm %d phút</item>
+    </plurals>
+	<plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d ứng dụng đã được ẩn</item>
+    </plurals>
+	<plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Có thể ẩn %d ứng dụng</item>
+    </plurals>
+	<plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Đặt lại dữ liệu gốc (%dgiây)</item>
+    </plurals>
+	<plurals name="fw_blocked_count_call">
         <item quantity="other">%1$d cuộc gọi từ %2$s và số khác</item>
     </plurals>
     <plurals name="fw_blocked_count_call_one">
@@ -68,12 +95,6 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d phút "</item>
     </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-    </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-    </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">Sau %1$d phút</item>
     </plurals>
@@ -88,12 +109,6 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     </plurals>
     <plurals name="quick_optimize_suggest_issue_found">
         <item quantity="other">Đã tìm thấy %d vấn đề pin, sửa ngay</item>
-    </plurals>
-    <plurals name="power_center_menu_text">
-        <item quantity="other">mục</item>
-    </plurals>
-    <plurals name="power_center_list_item_optimize_button">
-        <item quantity="other">Thêm %d phút</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">Được tải xuống bởi %1$d người</item>
@@ -127,18 +142,6 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     </plurals>
     <plurals name="sp_monitored_apps_list_group_disable">
         <item quantity="other">%s ứng dụng không được bảo vệ</item>
-    </plurals>
-    <plurals name="menu_text_antivirus_2">
-        <item quantity="other">%d mục</item>
-    </plurals>
-    <plurals name="menu_text_antivirus_3">
-        <item quantity="other">%d ngày</item>
-    </plurals>
-    <plurals name="menu_text_antispam_2">
-        <item quantity="other">%d mục</item>
-    </plurals>
-    <plurals name="menu_text_app_manager_2">
-        <item quantity="other">%d ứng dụng</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d mục an toàn</item>
@@ -215,9 +218,6 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="found_apps_title">
         <item quantity="other">Đã tìm thấy %d ứng dụng</item>
     </plurals>
-    <plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">Đặt lại dữ liệu gốc (%dgiây)</item>
-    </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d ứng dụng đã khóa đang chờ xóa</item>
     </plurals>
@@ -260,16 +260,31 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Đã check in %d ngày liên tục</item>
     </plurals>
-    <plurals name="hide_txt_hint_with_blank_2">
-        <item quantity="other">    +%1$d ký tự khác</item>
+	<plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d ứng dụng có thể hiển thị sai. Giới hạn thông báo nổi.</item>
     </plurals>
-    <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">Có thể ẩn %d ứng dụng</item>
+	<plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d vấn đề cần tối ưu</item>
     </plurals>
-    <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d ứng dụng đã được ẩn</item>
+	<plurals name="power_center_menu_text">
+        <item quantity="other">mục</item>
     </plurals>
-    <plurals name="first_aid_result_summary_exception">
-        <item quantity="other">%1$d vấn đề yêu cầu tối ưu</item>
+	<plurals name="menu_text_antivirus_2">
+        <item quantity="other">%d mục</item>
+    </plurals>
+	<plurals name="menu_text_antispam_2">
+        <item quantity="other">%d mục</item>
+    </plurals>
+	<plurals name="menu_text_antivirus_3">
+        <item quantity="other">"%d ngày"</item>
+    </plurals>
+	<plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Nối ít nhất %d điểm</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Nhập ít nhất %d ký tự</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Nhập ít nhất %d chữ số</item>
     </plurals>
 </resources>

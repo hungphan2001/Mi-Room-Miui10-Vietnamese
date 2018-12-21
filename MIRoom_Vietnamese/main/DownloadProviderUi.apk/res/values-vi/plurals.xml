@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="confirm_delete_downloads_message">
-        <item quantity="other">%d tải xuống sẽ bị xóa.</item>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">Tìm thấy %d mục</item>
+        <item quantity="one">Tìm thấy 1 mục</item>
     </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Xóa %d tác vụ?</item>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Xóa %d mục?</item>
+        <item quantity="one">Xóa mục này?</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">Tìm thấy %d kết quả</item>
+        <item quantity="one">Tìm thấy 1 kết quả</item>
+    </plurals>
+	<plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Xóa %d tải xuống?</item>
+        <item quantity="one">Xóa %d tải xuống?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Đã xóa %1$d tải xuống</item>
+        <item quantity="other">Xóa %s tải xuống thành công</item>
+        <item quantity="one">Xóa %s tải xuống thành công</item>
+    </plurals>
+	<plurals name="confirm_delete_downloads_message">
+        <item quantity="other">%d tải xuống sẽ bị xóa.</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d ngày</item>
