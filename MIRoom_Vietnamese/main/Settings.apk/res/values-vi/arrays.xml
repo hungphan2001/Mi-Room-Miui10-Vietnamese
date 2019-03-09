@@ -1,5 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string-array name="mtp_default_entries">
+        <item>Đang sạc</item>
+        <item>MTP</item>
+        <item>MTP nếu màn hình không được khoá với mật khẩu</item>
+    </string-array>
+	<string-array name="ios_toggle_entries"> 
+        <item>Mặc định</item> 
+        <item>Kiểu iOS</item> 
+        <item>Mới</item> 
+        <item>AOSP</item> 
+    </string-array> 
+	<string-array name="smart_mobiledata_entries"> 
+        <item>Không thay đổi</item> 
+        <item>Tốt nhất 4G</item> 
+        <item>Tốt nhất  3G</item> 
+        <item>Chỉ 2G</item> 
+    </string-array> 
+	<string-array name="smart_timer_entries">
+        <item>Không thay đổi</item>
+        <item>10 phút</item>
+        <item>20 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>2 giờ</item>
+        <item>3 giờ</item>
+    </string-array>
+	<string-array name="smart_timer_sleepon_entries">
+        <item>Không kích hoạt</item>
+        <item>10 phút</item>
+        <item>20 phút</item>
+        <item>30 phút</item>
+    </string-array>
+	<string-array name="sim_select_entries">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+        <item>SIM 1 / SIM 2</item>
+    </string-array>
+	<string-array name="volbtn_action_entries"> 
+        <item>Tiếp</item> 
+		<item>Kế trước</item> 
+        <item>Dừng lại</item> 
+        <item>Không</item> 
+    </string-array> 
+	<string-array name="volbtn_timeout_entries"> 
+        <item>2000 ms</item>
+        <item>1500 ms</item>
+		<item>1000 ms</item>
+        <item>700 ms</item>
+        <item>500 ms</item>
+        <item>300 ms</item>
+    </string-array> 
+	<string-array name="crt_animation_entries"> 
+        <item>Tắt</item> 
+        <item>Rất chậm</item> 
+        <item>Chậm</item> 
+        <item>Bình thường</item> 
+        <item>Nhanh</item> 
+    </string-array> 
+	<string-array name="low_battery_warning_entries"> 
+        <item>Tin nhắn và âm thanh</item> 
+        <item>Chỉ tin nhắn</item> 
+        <item>Chỉ âm thanh</item> 
+        <item>Tắt</item> 
+    </string-array> 
+	<string-array name="def_audio_entries"> 
+        <item>Nhạc chuông</item> 
+        <item>Đa phương tiện</item> 
+    </string-array> 
+	<string-array name="icon_app_color_entries"> 
+        <item>Năng động</item> 
+        <item>Màu mè</item> 
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>Bật màn hình</item>
         <item>Hiển thị ảnh động</item>
